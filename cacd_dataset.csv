@@ -1,0 +1,659 @@
+﻿linha_original,disciplina,hierarquia_codigo,nivel_profundidade,assunto_nivel_1,assunto_nivel_2,assunto_nivel_3,assunto_nivel_4,assunto_especifico,quantidade_encontrada,porcentagem_encontrada,quantidade_caderno,porcentagem_caderno
+0,Direito Administrativo (Doutrina e Leis Federais),,0,,,,,Direito Administrativo (Doutrina e Leis Federais),22,0.37,22,0.37
+1,Direito Administrativo (Doutrina e Leis Federais),01,1,Regime Jurídico Administrativo,,,,Regime Jurídico Administrativo,1,0.02,1,0.02
+2,Direito Administrativo (Doutrina e Leis Federais),01.01,2,Regime Jurídico Administrativo,"Princípios Expressos, Explícitos ou Constitucionais",,,"Princípios Expressos, Explícitos ou Constitucionais",1,0.02,1,0.02
+3,Direito Administrativo (Doutrina e Leis Federais),02,1,Organização Administrativa,,,,Organização Administrativa,1,0.02,1,0.02
+4,Direito Administrativo (Doutrina e Leis Federais),02.01,2,Organização Administrativa,Organização Administrativa da União,,,Organização Administrativa da União,1,0.02,1,0.02
+5,Direito Administrativo (Doutrina e Leis Federais),02.01.01,3,Organização Administrativa,Organização Administrativa da União,Administração Indireta,,Administração Indireta,1,0.02,1,0.02
+6,Direito Administrativo (Doutrina e Leis Federais),03,1,Responsabilidade Civil do Estado,,,,Responsabilidade Civil do Estado,6,0.1,6,0.1
+7,Direito Administrativo (Doutrina e Leis Federais),03.01,2,Responsabilidade Civil do Estado,Conceitos Iniciais e Teorias da Responsabilidade,,,Conceitos Iniciais e Teorias da Responsabilidade,3,0.05,3,0.05
+8,Direito Administrativo (Doutrina e Leis Federais),03.02,2,Responsabilidade Civil do Estado,Responsabilidade dos Agentes Públicos e Direito de Regresso,,,Responsabilidade dos Agentes Públicos e Direito de Regresso,1,0.02,1,0.02
+9,Direito Administrativo (Doutrina e Leis Federais),03.03,2,Responsabilidade Civil do Estado,Responsabilidade Civil por Atos Omissivos,,,Responsabilidade Civil por Atos Omissivos,1,0.02,1,0.02
+10,Direito Administrativo (Doutrina e Leis Federais),03.04,2,Responsabilidade Civil do Estado,Responsabilidade por Atos Legislativos e Judiciais,,,Responsabilidade por Atos Legislativos e Judiciais,1,0.02,1,0.02
+11,Direito Administrativo (Doutrina e Leis Federais),04,1,Controle da Administração,,,,Controle da Administração,2,0.03,2,0.03
+12,Direito Administrativo (Doutrina e Leis Federais),04.01,2,Controle da Administração,Controle Jurisdicional,,,Controle Jurisdicional,2,0.03,2,0.03
+13,Direito Administrativo (Doutrina e Leis Federais),05,1,Agentes Públicos,,,,Agentes Públicos,7,0.12,7,0.12
+14,Direito Administrativo (Doutrina e Leis Federais),05.01,2,Agentes Públicos,Lei nº 8.112/1990 - Estatuto dos Servidores Federais,,,Lei nº 8.112/1990 - Estatuto dos Servidores Federais,7,0.12,7,0.12
+15,Direito Administrativo (Doutrina e Leis Federais),05.01.01,3,Agentes Públicos,Lei nº 8.112/1990 - Estatuto dos Servidores Federais,Do Regime Disciplinar (arts. 116 a 142 da Lei nº 8.112/1990),,Do Regime Disciplinar (arts. 116 a 142 da Lei nº 8.112/1990),5,0.08,5,0.08
+16,Direito Administrativo (Doutrina e Leis Federais),05.01.02,3,Agentes Públicos,Lei nº 8.112/1990 - Estatuto dos Servidores Federais,Do Processo Administrativo Disciplinar (arts. 143 a 182 da Lei nº 8.112/1990),,Do Processo Administrativo Disciplinar (arts. 143 a 182 da Lei nº 8.112/1990),2,0.03,2,0.03
+17,Direito Administrativo (Doutrina e Leis Federais),06,1,Improbidade Administrativa (Lei nº 8.429/1992),,,,Improbidade Administrativa (Lei nº 8.429/1992),1,0.02,1,0.02
+18,Direito Administrativo (Doutrina e Leis Federais),06.01,2,Improbidade Administrativa (Lei nº 8.429/1992),Dos Atos de Improbidade (arts. 9º a 11 da Lei nº 8.429/1992),,,Dos Atos de Improbidade (arts. 9º a 11 da Lei nº 8.429/1992),1,0.02,1,0.02
+19,Direito Administrativo (Doutrina e Leis Federais),07,1,Licitações e Contratos Administrativos (Lei nº 14.133/2021),,,,Licitações e Contratos Administrativos (Lei nº 14.133/2021),1,0.02,1,0.02
+20,Direito Administrativo (Doutrina e Leis Federais),07.01,2,Licitações e Contratos Administrativos (Lei nº 14.133/2021),"Do Âmbito de Aplicação, Definições e Agentes Públicos (arts. 1º a 4º, 6º a 10 da Lei nº 14.133/2021)",,,"Do Âmbito de Aplicação, Definições e Agentes Públicos (arts. 1º a 4º, 6º a 10 da Lei nº 14.133/2021)",1,0.02,1,0.02
+21,Direito Administrativo (Doutrina e Leis Federais),08,1,Jurisprudência dos Tribunais Superiores em Matéria Administrativa,,,,Jurisprudência dos Tribunais Superiores em Matéria Administrativa,3,0.05,3,0.05
+22,Direito Administrativo (Doutrina e Leis Federais),08.01,2,Jurisprudência dos Tribunais Superiores em Matéria Administrativa,Jurisprudência dos Tribunais Superiores sobre Improbidade Administrativa,,,Jurisprudência dos Tribunais Superiores sobre Improbidade Administrativa,1,0.02,1,0.02
+23,Direito Administrativo (Doutrina e Leis Federais),08.02,2,Jurisprudência dos Tribunais Superiores em Matéria Administrativa,Jurisprudência dos Tribunais Superiores sobre Responsabilidade Civil do Estado,,,Jurisprudência dos Tribunais Superiores sobre Responsabilidade Civil do Estado,2,0.03,2,0.03
+24,Direito Constitucional (CF/1988 e Doutrina),,0,,,,,Direito Constitucional (CF/1988 e Doutrina),124,2.09,124,2.09
+25,Direito Constitucional (CF/1988 e Doutrina),01,1,Teoria do Direito Constitucional,,,,Teoria do Direito Constitucional,9,0.15,9,0.15
+26,Direito Constitucional (CF/1988 e Doutrina),01.01,2,Teoria do Direito Constitucional,Teoria Geral do Direito Constitucional,,,Teoria Geral do Direito Constitucional,2,0.03,2,0.03
+27,Direito Constitucional (CF/1988 e Doutrina),01.01.01,3,Teoria do Direito Constitucional,Teoria Geral do Direito Constitucional,Histórico das Constituições no Brasil,,Histórico das Constituições no Brasil,2,0.03,2,0.03
+28,Direito Constitucional (CF/1988 e Doutrina),01.02,2,Teoria do Direito Constitucional,"Constituição: Conceito, Estrutura, Supremacia e Classificação",,,"Constituição: Conceito, Estrutura, Supremacia e Classificação",5,0.08,5,0.08
+29,Direito Constitucional (CF/1988 e Doutrina),01.03,2,Teoria do Direito Constitucional,"Poder Constituinte (Originário, Derivado, Reformador, Revisor, Decorrente, etc)",,,"Poder Constituinte (Originário, Derivado, Reformador, Revisor, Decorrente, etc)",1,0.02,1,0.02
+30,Direito Constitucional (CF/1988 e Doutrina),01.04,2,Teoria do Direito Constitucional,Simetria Constitucional,,,Simetria Constitucional,1,0.02,1,0.02
+31,Direito Constitucional (CF/1988 e Doutrina),02,1,Dos Princípios Fundamentais da Constituição (arts. 1º a 4º da CF/1988),,,,Dos Princípios Fundamentais da Constituição (arts. 1º a 4º da CF/1988),11,0.19,11,0.19
+32,Direito Constitucional (CF/1988 e Doutrina),03,1,Dos Direitos e Garantias Fundamentais (arts. 5º a 17 da CF/1988),,,,Dos Direitos e Garantias Fundamentais (arts. 5º a 17 da CF/1988),16,0.27,16,0.27
+33,Direito Constitucional (CF/1988 e Doutrina),03.01,2,Dos Direitos e Garantias Fundamentais (arts. 5º a 17 da CF/1988),Características (Direitos Fundamentais),,,Características (Direitos Fundamentais),1,0.02,1,0.02
+34,Direito Constitucional (CF/1988 e Doutrina),03.02,2,Dos Direitos e Garantias Fundamentais (arts. 5º a 17 da CF/1988),Dos Direitos e Deveres Individuais e Coletivos (art. 5º da CF/1988),,,Dos Direitos e Deveres Individuais e Coletivos (art. 5º da CF/1988),11,0.19,11,0.19
+35,Direito Constitucional (CF/1988 e Doutrina),03.03,2,Dos Direitos e Garantias Fundamentais (arts. 5º a 17 da CF/1988),Da Nacionalidade (arts. 12 e 13 da CF/1988),,,Da Nacionalidade (arts. 12 e 13 da CF/1988),4,0.07,4,0.07
+36,Direito Constitucional (CF/1988 e Doutrina),03.03.01,3,Dos Direitos e Garantias Fundamentais (arts. 5º a 17 da CF/1988),Da Nacionalidade (arts. 12 e 13 da CF/1988),Espécies de Nacionalidade (Brasileiros Natos e Naturalizados),,Espécies de Nacionalidade (Brasileiros Natos e Naturalizados),1,0.02,1,0.02
+37,Direito Constitucional (CF/1988 e Doutrina),03.03.02,3,Dos Direitos e Garantias Fundamentais (arts. 5º a 17 da CF/1988),Da Nacionalidade (arts. 12 e 13 da CF/1988),"Extradição, Deportação, Expulsão e Banimento (da Nacionalidade)",,"Extradição, Deportação, Expulsão e Banimento (da Nacionalidade)",3,0.05,3,0.05
+38,Direito Constitucional (CF/1988 e Doutrina),04,1,Da Organização do Estado (arts. 18 a 43 da CF/1988),,,,Da Organização do Estado (arts. 18 a 43 da CF/1988),24,0.4,24,0.4
+39,Direito Constitucional (CF/1988 e Doutrina),04.01,2,Da Organização do Estado (arts. 18 a 43 da CF/1988),Da Organização Político-Administrativa (arts. 18 e 19 da CF/1988),,,Da Organização Político-Administrativa (arts. 18 e 19 da CF/1988),2,0.03,2,0.03
+40,Direito Constitucional (CF/1988 e Doutrina),04.02,2,Da Organização do Estado (arts. 18 a 43 da CF/1988),"União: Bens e Competências Exclusivas, Privativas, Comuns e Concorrentes (arts. 20 a 24 da CF/1988)",,,"União: Bens e Competências Exclusivas, Privativas, Comuns e Concorrentes (arts. 20 a 24 da CF/1988)",7,0.12,7,0.12
+41,Direito Constitucional (CF/1988 e Doutrina),04.03,2,Da Organização do Estado (arts. 18 a 43 da CF/1988),"Estados Federados - Organização, Competências, Bens (arts. 25 a 28 da CF/1988)",,,"Estados Federados - Organização, Competências, Bens (arts. 25 a 28 da CF/1988)",2,0.03,2,0.03
+42,Direito Constitucional (CF/1988 e Doutrina),04.04,2,Da Organização do Estado (arts. 18 a 43 da CF/1988),Do Distrito Federal e dos Territórios (arts. 32 e 33 da CF/1988),,,Do Distrito Federal e dos Territórios (arts. 32 e 33 da CF/1988),1,0.02,1,0.02
+43,Direito Constitucional (CF/1988 e Doutrina),04.05,2,Da Organização do Estado (arts. 18 a 43 da CF/1988),Intervenção Federal e Estadual (arts. 34 a 36 da CF/1988),,,Intervenção Federal e Estadual (arts. 34 a 36 da CF/1988),4,0.07,4,0.07
+44,Direito Constitucional (CF/1988 e Doutrina),04.06,2,Da Organização do Estado (arts. 18 a 43 da CF/1988),Administração Pública (arts. 37 a 43 da CF/1988),,,Administração Pública (arts. 37 a 43 da CF/1988),7,0.12,7,0.12
+45,Direito Constitucional (CF/1988 e Doutrina),04.06.01,3,Da Organização do Estado (arts. 18 a 43 da CF/1988),Administração Pública (arts. 37 a 43 da CF/1988),Disposições Gerais (Administração Pública - arts. 37 e 38 da CF/1988),,Disposições Gerais (Administração Pública - arts. 37 e 38 da CF/1988),6,0.1,6,0.1
+46,Direito Constitucional (CF/1988 e Doutrina),04.06.02,3,Da Organização do Estado (arts. 18 a 43 da CF/1988),Administração Pública (arts. 37 a 43 da CF/1988),Dos Servidores Públicos (arts. 39 a 41 da CF/1988),,Dos Servidores Públicos (arts. 39 a 41 da CF/1988),1,0.02,1,0.02
+47,Direito Constitucional (CF/1988 e Doutrina),04.07,2,Da Organização do Estado (arts. 18 a 43 da CF/1988),Questões Mescladas de Organização do Estado (arts. 18 a 43 da CF/1988),,,Questões Mescladas de Organização do Estado (arts. 18 a 43 da CF/1988),1,0.02,1,0.02
+48,Direito Constitucional (CF/1988 e Doutrina),05,1,Da Organização dos Poderes (arts. 44 a 135 da CF/1988),,,,Da Organização dos Poderes (arts. 44 a 135 da CF/1988),48,0.81,48,0.81
+49,Direito Constitucional (CF/1988 e Doutrina),05.01,2,Da Organização dos Poderes (arts. 44 a 135 da CF/1988),Do Poder Legislativo (arts. 44 a 75 da CF/1988),,,Do Poder Legislativo (arts. 44 a 75 da CF/1988),29,0.49,29,0.49
+50,Direito Constitucional (CF/1988 e Doutrina),05.01.01,3,Da Organização dos Poderes (arts. 44 a 135 da CF/1988),Do Poder Legislativo (arts. 44 a 75 da CF/1988),Do Congresso Nacional (arts. 44 a 47 da CF/1988),,Do Congresso Nacional (arts. 44 a 47 da CF/1988),1,0.02,1,0.02
+51,Direito Constitucional (CF/1988 e Doutrina),05.01.02,3,Da Organização dos Poderes (arts. 44 a 135 da CF/1988),Do Poder Legislativo (arts. 44 a 75 da CF/1988),Das Atribuições do Congresso Nacional (arts. 48 a 50 da CF/1988),,Das Atribuições do Congresso Nacional (arts. 48 a 50 da CF/1988),5,0.08,5,0.08
+52,Direito Constitucional (CF/1988 e Doutrina),05.01.03,3,Da Organização dos Poderes (arts. 44 a 135 da CF/1988),Do Poder Legislativo (arts. 44 a 75 da CF/1988),Da Câmara dos Deputados (art. 51 da CF/1988),,Da Câmara dos Deputados (art. 51 da CF/1988),1,0.02,1,0.02
+53,Direito Constitucional (CF/1988 e Doutrina),05.01.04,3,Da Organização dos Poderes (arts. 44 a 135 da CF/1988),Do Poder Legislativo (arts. 44 a 75 da CF/1988),Do Senado Federal (art. 52 da CF/1988),,Do Senado Federal (art. 52 da CF/1988),4,0.07,4,0.07
+54,Direito Constitucional (CF/1988 e Doutrina),05.01.05,3,Da Organização dos Poderes (arts. 44 a 135 da CF/1988),Do Poder Legislativo (arts. 44 a 75 da CF/1988),Processo Legislativo (arts. 59 a 69 da CF/1988),,Processo Legislativo (arts. 59 a 69 da CF/1988),18,0.3,18,0.3
+55,Direito Constitucional (CF/1988 e Doutrina),05.01.05.01,4,Da Organização dos Poderes (arts. 44 a 135 da CF/1988),Do Poder Legislativo (arts. 44 a 75 da CF/1988),Processo Legislativo (arts. 59 a 69 da CF/1988),Da Emenda à Constituição (art. 60 da CF/1988),Da Emenda à Constituição (art. 60 da CF/1988),3,0.05,3,0.05
+56,Direito Constitucional (CF/1988 e Doutrina),05.01.05.02,4,Da Organização dos Poderes (arts. 44 a 135 da CF/1988),Do Poder Legislativo (arts. 44 a 75 da CF/1988),Processo Legislativo (arts. 59 a 69 da CF/1988),Leis Ordinárias e Complementares,Leis Ordinárias e Complementares,2,0.03,2,0.03
+57,Direito Constitucional (CF/1988 e Doutrina),05.01.05.03,4,Da Organização dos Poderes (arts. 44 a 135 da CF/1988),Do Poder Legislativo (arts. 44 a 75 da CF/1988),Processo Legislativo (arts. 59 a 69 da CF/1988),Medidas Provisórias,Medidas Provisórias,4,0.07,4,0.07
+58,Direito Constitucional (CF/1988 e Doutrina),05.01.05.04,4,Da Organização dos Poderes (arts. 44 a 135 da CF/1988),Do Poder Legislativo (arts. 44 a 75 da CF/1988),Processo Legislativo (arts. 59 a 69 da CF/1988),Resoluções e Decretos Legislativos,Resoluções e Decretos Legislativos,2,0.03,2,0.03
+59,Direito Constitucional (CF/1988 e Doutrina),05.01.05.05,4,Da Organização dos Poderes (arts. 44 a 135 da CF/1988),Do Poder Legislativo (arts. 44 a 75 da CF/1988),Processo Legislativo (arts. 59 a 69 da CF/1988),"Fases do Processo Legislativo (Iniciativa, Discussão, Voto, Veto, Sanção, Promulgação e Publicação)","Fases do Processo Legislativo (Iniciativa, Discussão, Voto, Veto, Sanção, Promulgação e Publicação)",6,0.1,6,0.1
+60,Direito Constitucional (CF/1988 e Doutrina),05.01.05.06,4,Da Organização dos Poderes (arts. 44 a 135 da CF/1988),Do Poder Legislativo (arts. 44 a 75 da CF/1988),Processo Legislativo (arts. 59 a 69 da CF/1988),Questões Mescladas de Processo Legislativo (arts. 59 a 69 da CF/1988),Questões Mescladas de Processo Legislativo (arts. 59 a 69 da CF/1988),1,0.02,1,0.02
+61,Direito Constitucional (CF/1988 e Doutrina),05.02,2,Da Organização dos Poderes (arts. 44 a 135 da CF/1988),Do Poder Executivo (arts. 76 a 91 da CF/1988),,,Do Poder Executivo (arts. 76 a 91 da CF/1988),6,0.1,6,0.1
+62,Direito Constitucional (CF/1988 e Doutrina),05.02.01,3,Da Organização dos Poderes (arts. 44 a 135 da CF/1988),Do Poder Executivo (arts. 76 a 91 da CF/1988),Do Presidente e Vice Presidente da República (arts. 76 a 83 da CF/1988),,Do Presidente e Vice Presidente da República (arts. 76 a 83 da CF/1988),2,0.03,2,0.03
+63,Direito Constitucional (CF/1988 e Doutrina),05.02.02,3,Da Organização dos Poderes (arts. 44 a 135 da CF/1988),Do Poder Executivo (arts. 76 a 91 da CF/1988),Das Atribuições do Presidente da República (art. 84 da CF/1988),,Das Atribuições do Presidente da República (art. 84 da CF/1988),3,0.05,3,0.05
+64,Direito Constitucional (CF/1988 e Doutrina),05.02.03,3,Da Organização dos Poderes (arts. 44 a 135 da CF/1988),Do Poder Executivo (arts. 76 a 91 da CF/1988),Do Conselho da República e Conselho da Defesa Nacional (arts. 89 a 91 da CF/1988),,Do Conselho da República e Conselho da Defesa Nacional (arts. 89 a 91 da CF/1988),1,0.02,1,0.02
+65,Direito Constitucional (CF/1988 e Doutrina),05.03,2,Da Organização dos Poderes (arts. 44 a 135 da CF/1988),Do Poder Judiciário (arts. 92 a 126 da CF/1988),,,Do Poder Judiciário (arts. 92 a 126 da CF/1988),8,0.13,8,0.13
+66,Direito Constitucional (CF/1988 e Doutrina),05.03.01,3,Da Organização dos Poderes (arts. 44 a 135 da CF/1988),Do Poder Judiciário (arts. 92 a 126 da CF/1988),Do Supremo Tribunal Federal - STF (arts. 101 a 103 da CF/1988),,Do Supremo Tribunal Federal - STF (arts. 101 a 103 da CF/1988),3,0.05,3,0.05
+67,Direito Constitucional (CF/1988 e Doutrina),05.03.02,3,Da Organização dos Poderes (arts. 44 a 135 da CF/1988),Do Poder Judiciário (arts. 92 a 126 da CF/1988),Das Súmulas Vinculantes (art. 103-A da CF/1988),,Das Súmulas Vinculantes (art. 103-A da CF/1988),4,0.07,4,0.07
+68,Direito Constitucional (CF/1988 e Doutrina),05.03.03,3,Da Organização dos Poderes (arts. 44 a 135 da CF/1988),Do Poder Judiciário (arts. 92 a 126 da CF/1988),Do Superior Tribunal de Justiça - STJ (arts. 104 e 105 da CF/1988),,Do Superior Tribunal de Justiça - STJ (arts. 104 e 105 da CF/1988),1,0.02,1,0.02
+69,Direito Constitucional (CF/1988 e Doutrina),05.04,2,Da Organização dos Poderes (arts. 44 a 135 da CF/1988),Funções Essenciais à Justiça (arts. 127 a 135 da CF/1988),,,Funções Essenciais à Justiça (arts. 127 a 135 da CF/1988),1,0.02,1,0.02
+70,Direito Constitucional (CF/1988 e Doutrina),05.04.01,3,Da Organização dos Poderes (arts. 44 a 135 da CF/1988),Funções Essenciais à Justiça (arts. 127 a 135 da CF/1988),Ministério Público (arts. 127 a 130 da CF/1988),,Ministério Público (arts. 127 a 130 da CF/1988),1,0.02,1,0.02
+71,Direito Constitucional (CF/1988 e Doutrina),05.04.01.01,4,Da Organização dos Poderes (arts. 44 a 135 da CF/1988),Funções Essenciais à Justiça (arts. 127 a 135 da CF/1988),Ministério Público (arts. 127 a 130 da CF/1988),Funções Institucionais (Ministério Público),Funções Institucionais (Ministério Público),1,0.02,1,0.02
+72,Direito Constitucional (CF/1988 e Doutrina),05.05,2,Da Organização dos Poderes (arts. 44 a 135 da CF/1988),Questões Mescladas de Organização dos Poderes (arts. 44 a 135 da CF/1988),,,Questões Mescladas de Organização dos Poderes (arts. 44 a 135 da CF/1988),4,0.07,4,0.07
+73,Direito Constitucional (CF/1988 e Doutrina),06,1,Ordem Social (arts. 193 a 232 da CF/1988),,,,Ordem Social (arts. 193 a 232 da CF/1988),1,0.02,1,0.02
+74,Direito Constitucional (CF/1988 e Doutrina),06.01,2,Ordem Social (arts. 193 a 232 da CF/1988),Do Meio Ambiente (art. 225 da CF/1988),,,Do Meio Ambiente (art. 225 da CF/1988),1,0.02,1,0.02
+75,Direito Constitucional (CF/1988 e Doutrina),07,1,Controle de Constitucionalidade,,,,Controle de Constitucionalidade,10,0.17,10,0.17
+76,Direito Constitucional (CF/1988 e Doutrina),07.01,2,Controle de Constitucionalidade,"Introdução, Pressupostos e Tipos de Inconstitucionalidade",,,"Introdução, Pressupostos e Tipos de Inconstitucionalidade",2,0.03,2,0.03
+77,Direito Constitucional (CF/1988 e Doutrina),07.02,2,Controle de Constitucionalidade,Formas de Controle de Constitucionalidade,,,Formas de Controle de Constitucionalidade,4,0.07,4,0.07
+78,Direito Constitucional (CF/1988 e Doutrina),07.02.01,3,Controle de Constitucionalidade,Formas de Controle de Constitucionalidade,Controle Difuso (Incidental ou Incidenter Tantum),,Controle Difuso (Incidental ou Incidenter Tantum),1,0.02,1,0.02
+79,Direito Constitucional (CF/1988 e Doutrina),07.02.02,3,Controle de Constitucionalidade,Formas de Controle de Constitucionalidade,Ações de Controle Concentrado de Constitucionalidade,,Ações de Controle Concentrado de Constitucionalidade,3,0.05,3,0.05
+80,Direito Constitucional (CF/1988 e Doutrina),07.02.02.01,4,Controle de Constitucionalidade,Formas de Controle de Constitucionalidade,Ações de Controle Concentrado de Constitucionalidade,Ação Direta de Inconstitucionalidade (ADI),Ação Direta de Inconstitucionalidade (ADI),2,0.03,2,0.03
+81,Direito Constitucional (CF/1988 e Doutrina),07.02.02.02,4,Controle de Constitucionalidade,Formas de Controle de Constitucionalidade,Ações de Controle Concentrado de Constitucionalidade,Arguição de Descumprimento de Preceito Fundamental (ADPF),Arguição de Descumprimento de Preceito Fundamental (ADPF),1,0.02,1,0.02
+82,Direito Constitucional (CF/1988 e Doutrina),07.03,2,Controle de Constitucionalidade,Controle de Constitucionalidade pelos Tribunais de Justiça dos Estados,,,Controle de Constitucionalidade pelos Tribunais de Justiça dos Estados,1,0.02,1,0.02
+83,Direito Constitucional (CF/1988 e Doutrina),07.04,2,Controle de Constitucionalidade,Questões Mescladas de Controle de Constitucionalidade,,,Questões Mescladas de Controle de Constitucionalidade,3,0.05,3,0.05
+84,Direito Constitucional (CF/1988 e Doutrina),08,1,Jurisprudência dos Tribunais Superiores em Matéria Constitucional,,,,Jurisprudência dos Tribunais Superiores em Matéria Constitucional,5,0.08,5,0.08
+85,Direito Constitucional (CF/1988 e Doutrina),08.01,2,Jurisprudência dos Tribunais Superiores em Matéria Constitucional,Jurisprudência dos Tribunais Superiores sobre Direitos e Deveres Individuais e Coletivos,,,Jurisprudência dos Tribunais Superiores sobre Direitos e Deveres Individuais e Coletivos,2,0.03,2,0.03
+86,Direito Constitucional (CF/1988 e Doutrina),08.02,2,Jurisprudência dos Tribunais Superiores em Matéria Constitucional,"Jurisprudência dos Tribunais Superiores sobre Congresso Nacional, Senado e Câmara dos Deputados",,,"Jurisprudência dos Tribunais Superiores sobre Congresso Nacional, Senado e Câmara dos Deputados",2,0.03,2,0.03
+87,Direito Constitucional (CF/1988 e Doutrina),08.03,2,Jurisprudência dos Tribunais Superiores em Matéria Constitucional,Jurisprudência dos Tribunais Superiores sobre Controle de Constitucionalidade,,,Jurisprudência dos Tribunais Superiores sobre Controle de Constitucionalidade,1,0.02,1,0.02
+88,Língua Portuguesa (Português),,0,,,,,Língua Portuguesa (Português),966,16.26,966,16.26
+89,Língua Portuguesa (Português),01,1,Ortografia,,,,Ortografia,12,0.2,12,0.2
+90,Língua Portuguesa (Português),01.01,2,Ortografia,"Fatos da Língua Portuguesa (Porque, Por Que, Porquê e Por Quê; Onde, Aonde e Donde; Há e A, etc)",,,"Fatos da Língua Portuguesa (Porque, Por Que, Porquê e Por Quê; Onde, Aonde e Donde; Há e A, etc)",2,0.03,2,0.03
+91,Língua Portuguesa (Português),01.02,2,Ortografia,Acentuação,,,Acentuação,4,0.07,4,0.07
+92,Língua Portuguesa (Português),01.03,2,Ortografia,Uso do Hífen,,,Uso do Hífen,3,0.05,3,0.05
+93,Língua Portuguesa (Português),01.04,2,Ortografia,"Convenções de Escrita (Itálico, Siglas, etc)",,,"Convenções de Escrita (Itálico, Siglas, etc)",3,0.05,3,0.05
+94,Língua Portuguesa (Português),02,1,"Fonética (Fonemas, Dígrafos, Encontros Consonantais, Vocálicos). Separação Silábica",,,,"Fonética (Fonemas, Dígrafos, Encontros Consonantais, Vocálicos). Separação Silábica",2,0.03,2,0.03
+95,Língua Portuguesa (Português),03,1,Morfologia,,,,Morfologia,58,0.98,58,0.98
+96,Língua Portuguesa (Português),03.01,2,Morfologia,Formação e Estrutura das Palavras,,,Formação e Estrutura das Palavras,12,0.2,12,0.2
+97,Língua Portuguesa (Português),03.02,2,Morfologia,Classes de Palavras,,,Classes de Palavras,46,0.77,46,0.77
+98,Língua Portuguesa (Português),03.02.01,3,Morfologia,Classes de Palavras,Artigo,,Artigo,2,0.03,2,0.03
+99,Língua Portuguesa (Português),03.02.02,3,Morfologia,Classes de Palavras,Adjetivo,,Adjetivo,5,0.08,5,0.08
+100,Língua Portuguesa (Português),03.02.03,3,Morfologia,Classes de Palavras,Verbo,,Verbo,15,0.25,15,0.25
+101,Língua Portuguesa (Português),03.02.03.01,4,Morfologia,Classes de Palavras,Verbo,Conjugação. Reconhecimento e Emprego dos Modos e Tempos Verbais,Conjugação. Reconhecimento e Emprego dos Modos e Tempos Verbais,12,0.2,12,0.2
+102,Língua Portuguesa (Português),03.02.03.02,4,Morfologia,Classes de Palavras,Verbo,Questões Variadas de Verbo,Questões Variadas de Verbo,3,0.05,3,0.05
+103,Língua Portuguesa (Português),03.02.04,3,Morfologia,Classes de Palavras,Pronomes,,Pronomes,4,0.07,4,0.07
+104,Língua Portuguesa (Português),03.02.04.01,4,Morfologia,Classes de Palavras,Pronomes,Pronomes Pessoais,Pronomes Pessoais,1,0.02,1,0.02
+105,Língua Portuguesa (Português),03.02.04.02,4,Morfologia,Classes de Palavras,Pronomes,Pronomes de Tratamento,Pronomes de Tratamento,1,0.02,1,0.02
+106,Língua Portuguesa (Português),03.02.04.03,4,Morfologia,Classes de Palavras,Pronomes,Pronomes Demonstrativos,Pronomes Demonstrativos,1,0.02,1,0.02
+107,Língua Portuguesa (Português),03.02.04.04,4,Morfologia,Classes de Palavras,Pronomes,Questões Mescladas sobre Pronomes,Questões Mescladas sobre Pronomes,1,0.02,1,0.02
+108,Língua Portuguesa (Português),03.02.05,3,Morfologia,Classes de Palavras,Advérbio,,Advérbio,3,0.05,3,0.05
+109,Língua Portuguesa (Português),03.02.06,3,Morfologia,Classes de Palavras,Preposição,,Preposição,3,0.05,3,0.05
+110,Língua Portuguesa (Português),03.02.07,3,Morfologia,Classes de Palavras,Conjunção,,Conjunção,12,0.2,12,0.2
+111,Língua Portuguesa (Português),03.02.08,3,Morfologia,Classes de Palavras,Questões Variadas de Classe de Palavras,,Questões Variadas de Classe de Palavras,2,0.03,2,0.03
+112,Língua Portuguesa (Português),04,1,Colocação Pronominal,,,,Colocação Pronominal,7,0.12,7,0.12
+113,Língua Portuguesa (Português),05,1,Semântica,,,,Semântica,92,1.55,92,1.55
+114,Língua Portuguesa (Português),05.01,2,Semântica,Sinônimos e Antônimos,,,Sinônimos e Antônimos,22,0.37,22,0.37
+115,Língua Portuguesa (Português),05.02,2,Semântica,Denotação e Conotação,,,Denotação e Conotação,11,0.19,11,0.19
+116,Língua Portuguesa (Português),05.03,2,Semântica,Polissemia,,,Polissemia,3,0.05,3,0.05
+117,Língua Portuguesa (Português),05.04,2,Semântica,Significação de Vocábulo e Expressões,,,Significação de Vocábulo e Expressões,39,0.66,39,0.66
+118,Língua Portuguesa (Português),05.05,2,Semântica,Outras Questões de Semântica,,,Outras Questões de Semântica,17,0.29,17,0.29
+119,Língua Portuguesa (Português),06,1,Sintaxe,,,,Sintaxe,55,0.93,55,0.93
+120,Língua Portuguesa (Português),06.01,2,Sintaxe,"Frase, Oração e Período",,,"Frase, Oração e Período",1,0.02,1,0.02
+121,Língua Portuguesa (Português),06.02,2,Sintaxe,Funções Sintáticas,,,Funções Sintáticas,27,0.45,27,0.45
+122,Língua Portuguesa (Português),06.02.01,3,Sintaxe,Funções Sintáticas,Termos Essenciais da Oração,,Termos Essenciais da Oração,15,0.25,15,0.25
+123,Língua Portuguesa (Português),06.02.01.01,4,Sintaxe,Funções Sintáticas,Termos Essenciais da Oração,Sujeito,Sujeito,9,0.15,9,0.15
+124,Língua Portuguesa (Português),06.02.01.02,4,Sintaxe,Funções Sintáticas,Termos Essenciais da Oração,Predicado,Predicado,6,0.1,6,0.1
+125,Língua Portuguesa (Português),06.02.02,3,Sintaxe,Funções Sintáticas,"Termos Integrantes (Objeto Direto e Indireto, Complemento Nominal e Agente da Passiva)",,"Termos Integrantes (Objeto Direto e Indireto, Complemento Nominal e Agente da Passiva)",9,0.15,9,0.15
+126,Língua Portuguesa (Português),06.02.03,3,Sintaxe,Funções Sintáticas,"Termos Acessórios (Adjunto Adnominal, Adjunto Adverbial e Aposto). Vocativo",,"Termos Acessórios (Adjunto Adnominal, Adjunto Adverbial e Aposto). Vocativo",3,0.05,3,0.05
+127,Língua Portuguesa (Português),06.03,2,Sintaxe,Orações Coordenadas,,,Orações Coordenadas,2,0.03,2,0.03
+128,Língua Portuguesa (Português),06.04,2,Sintaxe,Orações Subordinadas Substantivas,,,Orações Subordinadas Substantivas,2,0.03,2,0.03
+129,Língua Portuguesa (Português),06.05,2,Sintaxe,Orações Subordinadas Adjetivas,,,Orações Subordinadas Adjetivas,6,0.1,6,0.1
+130,Língua Portuguesa (Português),06.06,2,Sintaxe,Orações Subordinadas Adverbiais,,,Orações Subordinadas Adverbiais,4,0.07,4,0.07
+131,Língua Portuguesa (Português),06.07,2,Sintaxe,Funções Sintáticas dos Pronomes Relativos,,,Funções Sintáticas dos Pronomes Relativos,3,0.05,3,0.05
+132,Língua Portuguesa (Português),06.08,2,Sintaxe,Função Sintática dos Pronomes Pessoais Átonos,,,Função Sintática dos Pronomes Pessoais Átonos,4,0.07,4,0.07
+133,Língua Portuguesa (Português),06.09,2,Sintaxe,Questões Mescladas de Sintaxe,,,Questões Mescladas de Sintaxe,6,0.1,6,0.1
+134,Língua Portuguesa (Português),07,1,"Pontuação (Ponto, Vírgula, Travessão, Aspas, Parênteses, etc)",,,,"Pontuação (Ponto, Vírgula, Travessão, Aspas, Parênteses, etc)",35,0.59,35,0.59
+135,Língua Portuguesa (Português),08,1,Regência,,,,Regência,19,0.32,19,0.32
+136,Língua Portuguesa (Português),08.01,2,Regência,Regência Nominal e Verbal (Casos Gerais),,,Regência Nominal e Verbal (Casos Gerais),13,0.22,13,0.22
+137,Língua Portuguesa (Português),08.02,2,Regência,Crase,,,Crase,6,0.1,6,0.1
+138,Língua Portuguesa (Português),09,1,Concordância (Verbal e Nominal),,,,Concordância (Verbal e Nominal),11,0.19,11,0.19
+139,Língua Portuguesa (Português),10,1,Vozes (Voz Passiva e Voz Ativa),,,,Vozes (Voz Passiva e Voz Ativa),2,0.03,2,0.03
+140,Língua Portuguesa (Português),11,1,"Coerência. Coesão (Anáfora, Catáfora, Uso dos Conectores - Pronomes Relativos, Conjunções, etc)",,,,"Coerência. Coesão (Anáfora, Catáfora, Uso dos Conectores - Pronomes Relativos, Conjunções, etc)",63,1.06,63,1.06
+141,Língua Portuguesa (Português),12,1,"Tipos de Discurso (Direto, Indireto e Indireto Livre)",,,,"Tipos de Discurso (Direto, Indireto e Indireto Livre)",4,0.07,4,0.07
+142,Língua Portuguesa (Português),13,1,Linguagem,,,,Linguagem,35,0.59,35,0.59
+143,Língua Portuguesa (Português),13.01,2,Linguagem,"Variações da Linguagem: Não Verbal, Regional, Histórica, Contextual. Neologismos e Estrangeirismos",,,"Variações da Linguagem: Não Verbal, Regional, Histórica, Contextual. Neologismos e Estrangeirismos",1,0.02,1,0.02
+144,Língua Portuguesa (Português),13.02,2,Linguagem,Linguagem Formal e Informal,,,Linguagem Formal e Informal,7,0.12,7,0.12
+145,Língua Portuguesa (Português),13.03,2,Linguagem,Figuras de Linguagem,,,Figuras de Linguagem,16,0.27,16,0.27
+146,Língua Portuguesa (Português),13.04,2,Linguagem,"Vícios de Linguagem (Pleonasmo, Ambiguidade, Cacofonia, etc.)",,,"Vícios de Linguagem (Pleonasmo, Ambiguidade, Cacofonia, etc.)",2,0.03,2,0.03
+147,Língua Portuguesa (Português),13.05,2,Linguagem,Elementos da Comunicação e Funções da Linguagem,,,Elementos da Comunicação e Funções da Linguagem,9,0.15,9,0.15
+148,Língua Portuguesa (Português),14,1,"Partícula ""Se""",,,,"Partícula ""Se""",8,0.13,8,0.13
+149,Língua Portuguesa (Português),15,1,"Vocábulo ""Como""",,,,"Vocábulo ""Como""",1,0.02,1,0.02
+150,Língua Portuguesa (Português),16,1,"Vocábulo ""Que""",,,,"Vocábulo ""Que""",6,0.1,6,0.1
+151,Língua Portuguesa (Português),17,1,Interpretação de Textos (Compreensão),,,,Interpretação de Textos (Compreensão),406,6.83,406,6.83
+152,Língua Portuguesa (Português),18,1,Tipologia e Gênero Textual,,,,Tipologia e Gênero Textual,17,0.29,17,0.29
+153,Língua Portuguesa (Português),19,1,Paralelismo,,,,Paralelismo,5,0.08,5,0.08
+154,Língua Portuguesa (Português),20,1,Reescrita de Frases. Substituição de Palavras ou Trechos de Texto.,,,,Reescrita de Frases. Substituição de Palavras ou Trechos de Texto.,87,1.46,87,1.46
+155,Língua Portuguesa (Português),21,1,Clareza e Correção,,,,Clareza e Correção,8,0.13,8,0.13
+156,Língua Portuguesa (Português),22,1,Outras Questões de Português e Questões Mescladas (Interpretação de Textos ou Gramática),,,,Outras Questões de Português e Questões Mescladas (Interpretação de Textos ou Gramática),33,0.56,33,0.56
+157,Direito Civil,,0,,,,,Direito Civil,5,0.08,5,0.08
+158,Direito Civil,01,1,Das Pessoas (arts. 1º a 78),,,,Das Pessoas (arts. 1º a 78),3,0.05,3,0.05
+159,Direito Civil,01.01,2,Das Pessoas (arts. 1º a 78),Das Pessoas Naturais (arts. 1º a 39),,,Das Pessoas Naturais (arts. 1º a 39),2,0.03,2,0.03
+160,Direito Civil,01.01.01,3,Das Pessoas (arts. 1º a 78),Das Pessoas Naturais (arts. 1º a 39),Da Personalidade e da Capacidade (arts. 1º a 10),,Da Personalidade e da Capacidade (arts. 1º a 10),1,0.02,1,0.02
+161,Direito Civil,01.01.02,3,Das Pessoas (arts. 1º a 78),Das Pessoas Naturais (arts. 1º a 39),Dos Direitos da Personalidade (arts. 11 a 21),,Dos Direitos da Personalidade (arts. 11 a 21),1,0.02,1,0.02
+162,Direito Civil,01.02,2,Das Pessoas (arts. 1º a 78),Das Pessoas Jurídicas (arts. 40 a 69),,,Das Pessoas Jurídicas (arts. 40 a 69),1,0.02,1,0.02
+163,Direito Civil,01.02.01,3,Das Pessoas (arts. 1º a 78),Das Pessoas Jurídicas (arts. 40 a 69),Desconsideração da Personalidade Jurídica,,Desconsideração da Personalidade Jurídica,1,0.02,1,0.02
+164,Direito Civil,02,1,Dos Fatos Jurídicos (arts. 104 a 232),,,,Dos Fatos Jurídicos (arts. 104 a 232),2,0.03,2,0.03
+165,Direito Civil,02.01,2,Dos Fatos Jurídicos (arts. 104 a 232),"Fatos Jurídicos: Conceito, Classificação e Princípios Gerais",,,"Fatos Jurídicos: Conceito, Classificação e Princípios Gerais",1,0.02,1,0.02
+166,Direito Civil,02.02,2,Dos Fatos Jurídicos (arts. 104 a 232),Negócio Jurídico (arts. 104 a 184),,,Negócio Jurídico (arts. 104 a 184),1,0.02,1,0.02
+167,Direito Civil,02.02.01,3,Dos Fatos Jurídicos (arts. 104 a 232),Negócio Jurídico (arts. 104 a 184),Defeitos ou Vícios do Negócio Jurídico (arts. 138 a 165),,Defeitos ou Vícios do Negócio Jurídico (arts. 138 a 165),1,0.02,1,0.02
+168,Língua Inglesa (Inglês),,0,,,,,Língua Inglesa (Inglês),696,11.72,696,11.72
+169,Língua Inglesa (Inglês),01,1,Interpretação de Textos (Understanding),,,,Interpretação de Textos (Understanding),475,8.0,475,8.0
+170,Língua Inglesa (Inglês),02,1,Gramática (Grammatics),,,,Gramática (Grammatics),26,0.44,26,0.44
+171,Língua Inglesa (Inglês),02.01,2,Gramática (Grammatics),Morfologia e Classe de Palavras (Morphology),,,Morfologia e Classe de Palavras (Morphology),22,0.37,22,0.37
+172,Língua Inglesa (Inglês),02.01.01,3,Gramática (Grammatics),Morfologia e Classe de Palavras (Morphology),Formação e Estrutura das Palavras (Inglês),,Formação e Estrutura das Palavras (Inglês),1,0.02,1,0.02
+173,Língua Inglesa (Inglês),02.01.02,3,Gramática (Grammatics),Morfologia e Classe de Palavras (Morphology),Artigo (Articles),,Artigo (Articles),1,0.02,1,0.02
+174,Língua Inglesa (Inglês),02.01.03,3,Gramática (Grammatics),Morfologia e Classe de Palavras (Morphology),"Substantivos (Nouns, Plural, Quantifiers)",,"Substantivos (Nouns, Plural, Quantifiers)",2,0.03,2,0.03
+175,Língua Inglesa (Inglês),02.01.04,3,Gramática (Grammatics),Morfologia e Classe de Palavras (Morphology),Adjetivos (Inglês),,Adjetivos (Inglês),1,0.02,1,0.02
+176,Língua Inglesa (Inglês),02.01.04.01,4,Gramática (Grammatics),Morfologia e Classe de Palavras (Morphology),Adjetivos (Inglês),Grau Comparativo e Superlativo dos Adjetivos (Inglês),Grau Comparativo e Superlativo dos Adjetivos (Inglês),1,0.02,1,0.02
+177,Língua Inglesa (Inglês),02.01.05,3,Gramática (Grammatics),Morfologia e Classe de Palavras (Morphology),Verbos (Verbs),,Verbos (Verbs),5,0.08,5,0.08
+178,Língua Inglesa (Inglês),02.01.06,3,Gramática (Grammatics),Morfologia e Classe de Palavras (Morphology),Pronomes (Pronouns),,Pronomes (Pronouns),2,0.03,2,0.03
+179,Língua Inglesa (Inglês),02.01.07,3,Gramática (Grammatics),Morfologia e Classe de Palavras (Morphology),Advérbios (Adverbs),,Advérbios (Adverbs),4,0.07,4,0.07
+180,Língua Inglesa (Inglês),02.01.08,3,Gramática (Grammatics),Morfologia e Classe de Palavras (Morphology),Preposições (Prepositions),,Preposições (Prepositions),5,0.08,5,0.08
+181,Língua Inglesa (Inglês),02.01.09,3,Gramática (Grammatics),Morfologia e Classe de Palavras (Morphology),Conjunções e Conectivos (Conjuctions e Linking Words),,Conjunções e Conectivos (Conjuctions e Linking Words),1,0.02,1,0.02
+182,Língua Inglesa (Inglês),02.02,2,Gramática (Grammatics),Sintaxe (Syntax),,,Sintaxe (Syntax),2,0.03,2,0.03
+183,Língua Inglesa (Inglês),02.02.01,3,Gramática (Grammatics),Sintaxe (Syntax),Análise Sintática (Syntax Parsing),,Análise Sintática (Syntax Parsing),1,0.02,1,0.02
+184,Língua Inglesa (Inglês),02.02.02,3,Gramática (Grammatics),Sintaxe (Syntax),Voz Ativa e Passiva (Active and Passive Voice),,Voz Ativa e Passiva (Active and Passive Voice),1,0.02,1,0.02
+185,Língua Inglesa (Inglês),02.03,2,Gramática (Grammatics),Pontuação (Punctuation),,,Pontuação (Punctuation),2,0.03,2,0.03
+186,Língua Inglesa (Inglês),03,1,Semântica e Significado de Vocábulos (Semantics),,,,Semântica e Significado de Vocábulos (Semantics),195,3.28,195,3.28
+187,Língua Inglesa (Inglês),03.01,2,Semântica e Significado de Vocábulos (Semantics),"Significado de Palavras e Expressões (Sinônimos, Antônimos, Parônimos, Denotação, Conotação, etc.)",,,"Significado de Palavras e Expressões (Sinônimos, Antônimos, Parônimos, Denotação, Conotação, etc.)",75,1.26,75,1.26
+188,Língua Inglesa (Inglês),03.02,2,Semântica e Significado de Vocábulos (Semantics),Substituição de Palavras e Reescrita de Frases (Inglês),,,Substituição de Palavras e Reescrita de Frases (Inglês),100,1.68,100,1.68
+189,Língua Inglesa (Inglês),03.03,2,Semântica e Significado de Vocábulos (Semantics),"Referenciação, Anáfora e Catáfora (Língua Inglesa)",,,"Referenciação, Anáfora e Catáfora (Língua Inglesa)",18,0.3,18,0.3
+190,Língua Inglesa (Inglês),03.04,2,Semântica e Significado de Vocábulos (Semantics),Figuras de Linguagem (Figures of Speech),,,Figuras de Linguagem (Figures of Speech),1,0.02,1,0.02
+191,Língua Inglesa (Inglês),03.05,2,Semântica e Significado de Vocábulos (Semantics),Tradução (Translation),,,Tradução (Translation),1,0.02,1,0.02
+192,Direito Internacional Público e Privado,,0,,,,,Direito Internacional Público e Privado,306,5.15,306,5.15
+193,Direito Internacional Público e Privado,01,1,Introdução ao DIP,,,,Introdução ao DIP,5,0.08,5,0.08
+194,Direito Internacional Público e Privado,01.01,2,Introdução ao DIP,"DIP - Conceito, Objeto, Caráter jurídico e Teorias",,,"DIP - Conceito, Objeto, Caráter jurídico e Teorias",4,0.07,4,0.07
+195,Direito Internacional Público e Privado,01.02,2,Introdução ao DIP,Relação entre Direito Internacional e Direito Interno (Monismo e Dualismo),,,Relação entre Direito Internacional e Direito Interno (Monismo e Dualismo),1,0.02,1,0.02
+196,Direito Internacional Público e Privado,02,1,Fontes do DIP,,,,Fontes do DIP,36,0.61,36,0.61
+197,Direito Internacional Público e Privado,02.01,2,Fontes do DIP,Fontes de DIP - Aspectos Gerais,,,Fontes de DIP - Aspectos Gerais,8,0.13,8,0.13
+198,Direito Internacional Público e Privado,02.02,2,Fontes do DIP,Direito dos Tratados,,,Direito dos Tratados,28,0.47,28,0.47
+199,Direito Internacional Público e Privado,02.02.01,3,Fontes do DIP,Direito dos Tratados,Convenção de Viena sobre o Direito dos Tratados (1969),,Convenção de Viena sobre o Direito dos Tratados (1969),22,0.37,22,0.37
+200,Direito Internacional Público e Privado,02.02.02,3,Fontes do DIP,Direito dos Tratados,Incorporação dos Tratados ao Direito Interno,,Incorporação dos Tratados ao Direito Interno,6,0.1,6,0.1
+201,Direito Internacional Público e Privado,03,1,Sujeitos de DIP,,,,Sujeitos de DIP,112,1.89,112,1.89
+202,Direito Internacional Público e Privado,03.01,2,Sujeitos de DIP,"Personalidade Jurídica, Estado, Santa Sé, Indivíduos, ONG etc.",,,"Personalidade Jurídica, Estado, Santa Sé, Indivíduos, ONG etc.",19,0.32,19,0.32
+203,Direito Internacional Público e Privado,03.02,2,Sujeitos de DIP,Organizações Internacionais,,,Organizações Internacionais,87,1.46,87,1.46
+204,Direito Internacional Público e Privado,03.02.01,3,Sujeitos de DIP,Organizações Internacionais,Organização das Nações Unidas (ONU),,Organização das Nações Unidas (ONU),25,0.42,25,0.42
+205,Direito Internacional Público e Privado,03.02.02,3,Sujeitos de DIP,Organizações Internacionais,Corte Internacional de Justiça,,Corte Internacional de Justiça,35,0.59,35,0.59
+206,Direito Internacional Público e Privado,03.02.03,3,Sujeitos de DIP,Organizações Internacionais,UNASUL,,UNASUL,2,0.03,2,0.03
+207,Direito Internacional Público e Privado,03.02.04,3,Sujeitos de DIP,Organizações Internacionais,"Tribunal Penal Internacional (Estatuto de Roma, Decreto nº 4.388/2002)",,"Tribunal Penal Internacional (Estatuto de Roma, Decreto nº 4.388/2002)",21,0.35,21,0.35
+208,Direito Internacional Público e Privado,03.02.05,3,Sujeitos de DIP,Organizações Internacionais,Organização Internacional do Trabalho,,Organização Internacional do Trabalho,4,0.07,4,0.07
+209,Direito Internacional Público e Privado,03.03,2,Sujeitos de DIP,Imunidades (Direito Internacional),,,Imunidades (Direito Internacional),6,0.1,6,0.1
+210,Direito Internacional Público e Privado,04,1,Nacionalidade e Condição Jurídica do Estrangeiro,,,,Nacionalidade e Condição Jurídica do Estrangeiro,14,0.24,14,0.24
+211,Direito Internacional Público e Privado,04.01,2,Nacionalidade e Condição Jurídica do Estrangeiro,Nacionalidade (DIP),,,Nacionalidade (DIP),6,0.1,6,0.1
+212,Direito Internacional Público e Privado,04.02,2,Nacionalidade e Condição Jurídica do Estrangeiro,Migração e Condição Jurídica do Estrangeiro (Lei nº 13.445/2017),,,Migração e Condição Jurídica do Estrangeiro (Lei nº 13.445/2017),8,0.13,8,0.13
+213,Direito Internacional Público e Privado,05,1,Relações Diplomáticas e Consulares,,,,Relações Diplomáticas e Consulares,5,0.08,5,0.08
+214,Direito Internacional Público e Privado,06,1,Responsabilidade Internacional,,,,Responsabilidade Internacional,6,0.1,6,0.1
+215,Direito Internacional Público e Privado,07,1,Solução Pacífica dos Conflitos Internacionais,,,,Solução Pacífica dos Conflitos Internacionais,12,0.2,12,0.2
+216,Direito Internacional Público e Privado,08,1,Direito Internacional Econômico,,,,Direito Internacional Econômico,3,0.05,3,0.05
+217,Direito Internacional Público e Privado,09,1,Direito Internacional Privado,,,,Direito Internacional Privado,7,0.12,7,0.12
+218,Direito Internacional Público e Privado,09.01,2,Direito Internacional Privado,Direito Processual Civil Internacional e Cooperação Jurídica Internacional,,,Direito Processual Civil Internacional e Cooperação Jurídica Internacional,4,0.07,4,0.07
+219,Direito Internacional Público e Privado,09.02,2,Direito Internacional Privado,Conflito de Leis no Espaço (Direito Internacional),,,Conflito de Leis no Espaço (Direito Internacional),3,0.05,3,0.05
+220,Direito Internacional Público e Privado,10,1,Direito do Comércio Internacional,,,,Direito do Comércio Internacional,5,0.08,5,0.08
+221,Direito Internacional Público e Privado,11,1,"Direito Comunitário e da Integração (MERCOSUL, União Europeia, etc.)",,,,"Direito Comunitário e da Integração (MERCOSUL, União Europeia, etc.)",28,0.47,28,0.47
+222,Direito Internacional Público e Privado,12,1,Direito Humanitário e Direito Internacional dos Conflitos,,,,Direito Humanitário e Direito Internacional dos Conflitos,27,0.45,27,0.45
+223,Direito Internacional Público e Privado,13,1,Convenções de Direito Internacional em Espécie,,,,Convenções de Direito Internacional em Espécie,26,0.44,26,0.44
+224,Direito Internacional Público e Privado,13.01,2,Convenções de Direito Internacional em Espécie,Decreto nº 4.410/2002 - Convenção Interamericana contra a Corrupção,,,Decreto nº 4.410/2002 - Convenção Interamericana contra a Corrupção,1,0.02,1,0.02
+225,Direito Internacional Público e Privado,13.02,2,Convenções de Direito Internacional em Espécie,Decreto nº 5.015/2004 - Crime Organizado Transnacional (Convenção de Palermo),,,Decreto nº 5.015/2004 - Crime Organizado Transnacional (Convenção de Palermo),1,0.02,1,0.02
+226,Direito Internacional Público e Privado,13.03,2,Convenções de Direito Internacional em Espécie,Decreto nº 5.017/2004 - Crime Organizado Transnacional Relativo à Tráfico de Pessoas,,,Decreto nº 5.017/2004 - Crime Organizado Transnacional Relativo à Tráfico de Pessoas,1,0.02,1,0.02
+227,Direito Internacional Público e Privado,13.04,2,Convenções de Direito Internacional em Espécie,Convenção das Nações Unidas sobre o Direito do Mar (CNUDM),,,Convenção das Nações Unidas sobre o Direito do Mar (CNUDM),18,0.3,18,0.3
+228,Direito Internacional Público e Privado,13.05,2,Convenções de Direito Internacional em Espécie,Demais Convenções em Espécie e Tópicos Mesclados,,,Demais Convenções em Espécie e Tópicos Mesclados,5,0.08,5,0.08
+229,Direito Internacional Público e Privado,14,1,Jurisprudência dos Tribunais Superiores em Direito Internacional Público e Privado,,,,Jurisprudência dos Tribunais Superiores em Direito Internacional Público e Privado,1,0.02,1,0.02
+230,Direito Internacional Público e Privado,15,1,Sem Classificação,,,,Sem Classificação,19,0.32,19,0.32
+231,Direito Ambiental,,0,,,,,Direito Ambiental,43,0.72,43,0.72
+232,Direito Ambiental,01,1,Princípios do Direito Ambiental ,,,,Princípios do Direito Ambiental ,1,0.02,1,0.02
+233,Direito Ambiental,02,1,Direito Ambiental Constitucional,,,,Direito Ambiental Constitucional,1,0.02,1,0.02
+234,Direito Ambiental,02.01,2,Direito Ambiental Constitucional,Competências Constitucionais em Matéria Ambiental,,,Competências Constitucionais em Matéria Ambiental,1,0.02,1,0.02
+235,Direito Ambiental,03,1,Direito Ambiental Internacional,,,,Direito Ambiental Internacional,29,0.49,29,0.49
+236,Direito Ambiental,03.01,2,Direito Ambiental Internacional,Conferência de Estocolmo (1972),,,Conferência de Estocolmo (1972),2,0.03,2,0.03
+237,Direito Ambiental,03.02,2,Direito Ambiental Internacional,Relatório Brundtland (Nosso Futuro Comum),,,Relatório Brundtland (Nosso Futuro Comum),1,0.02,1,0.02
+238,Direito Ambiental,03.03,2,Direito Ambiental Internacional,"Rio 92, Eco 92, CNUMAD",,,"Rio 92, Eco 92, CNUMAD",13,0.22,13,0.22
+239,Direito Ambiental,03.03.01,3,Direito Ambiental Internacional,"Rio 92, Eco 92, CNUMAD",Aspectos Gerais da Rio 92,,Aspectos Gerais da Rio 92,5,0.08,5,0.08
+240,Direito Ambiental,03.03.02,3,Direito Ambiental Internacional,"Rio 92, Eco 92, CNUMAD",Agenda 21,,Agenda 21,2,0.03,2,0.03
+241,Direito Ambiental,03.03.03,3,Direito Ambiental Internacional,"Rio 92, Eco 92, CNUMAD",Convenção sobre Diversidade Biológica (CDB),,Convenção sobre Diversidade Biológica (CDB),4,0.07,4,0.07
+242,Direito Ambiental,03.03.04,3,Direito Ambiental Internacional,"Rio 92, Eco 92, CNUMAD",Demais Normativos e Acordos da Rio 92,,Demais Normativos e Acordos da Rio 92,2,0.03,2,0.03
+243,Direito Ambiental,03.04,2,Direito Ambiental Internacional,Protocolo de Kyoto,,,Protocolo de Kyoto,3,0.05,3,0.05
+244,Direito Ambiental,03.05,2,Direito Ambiental Internacional,Decreto nº 9.073/2017 - Acordo de Paris sob a Convenção-Quadro das Nações Unidas sobre Mudança do Clima,,,Decreto nº 9.073/2017 - Acordo de Paris sob a Convenção-Quadro das Nações Unidas sobre Mudança do Clima,1,0.02,1,0.02
+245,Direito Ambiental,03.06,2,Direito Ambiental Internacional,Demais Normativos sobre Direito Internacional Ambiental,,,Demais Normativos sobre Direito Internacional Ambiental,9,0.15,9,0.15
+246,Direito Ambiental,04,1,"Política, Licenciamento, Avaliação e Impacto Ambiental",,,,"Política, Licenciamento, Avaliação e Impacto Ambiental",4,0.07,4,0.07
+247,Direito Ambiental,04.01,2,"Política, Licenciamento, Avaliação e Impacto Ambiental","Outros Assuntos e Tópicos Mesclados de Política, Licenciamento, Avaliação e Impacto Ambiental",,,"Outros Assuntos e Tópicos Mesclados de Política, Licenciamento, Avaliação e Impacto Ambiental",4,0.07,4,0.07
+248,Direito Ambiental,05,1,Unidades de Conservação,,,,Unidades de Conservação,1,0.02,1,0.02
+249,Direito Ambiental,05.01,2,Unidades de Conservação,Unidades de Conservação - Lei nº 9.985/2000 e Decreto nº 4.340/2002,,,Unidades de Conservação - Lei nº 9.985/2000 e Decreto nº 4.340/2002,1,0.02,1,0.02
+250,Direito Ambiental,05.01.01,3,Unidades de Conservação,Unidades de Conservação - Lei nº 9.985/2000 e Decreto nº 4.340/2002,Conceitos de Unidades de Conservação (arts. 1º e 2º da Lei nº 9.985/00),,Conceitos de Unidades de Conservação (arts. 1º e 2º da Lei nº 9.985/00),1,0.02,1,0.02
+251,Direito Ambiental,06,1,Florestas,,,,Florestas,2,0.03,2,0.03
+252,Direito Ambiental,06.01,2,Florestas,Lei nº 11.428/06 - Lei da Mata Atlântica,,,Lei nº 11.428/06 - Lei da Mata Atlântica,1,0.02,1,0.02
+253,Direito Ambiental,06.02,2,Florestas,"Outros Assuntos e Tópicos Mesclados de ""Florestas""",,,"Outros Assuntos e Tópicos Mesclados de ""Florestas""",1,0.02,1,0.02
+254,Direito Ambiental,07,1,Águas (Recursos Hídricos),,,,Águas (Recursos Hídricos),1,0.02,1,0.02
+255,Direito Ambiental,07.01,2,Águas (Recursos Hídricos),Lei nº 9.433/1997 - Política Nacional de Recursos Hídricos (PNRH),,,Lei nº 9.433/1997 - Política Nacional de Recursos Hídricos (PNRH),1,0.02,1,0.02
+256,Direito Ambiental,08,1,Ecologia e Meio ambiente ,,,,Ecologia e Meio ambiente ,1,0.02,1,0.02
+257,Direito Ambiental,09,1,Políticas Públicas e Aspectos Econômicos de Direito Ambiental,,,,Políticas Públicas e Aspectos Econômicos de Direito Ambiental,1,0.02,1,0.02
+258,Direito Ambiental,10,1,Assuntos Diversos de Direito Ambiental e Tópicos Mesclados,,,,Assuntos Diversos de Direito Ambiental e Tópicos Mesclados,2,0.03,2,0.03
+259,Economia e Finanças Públicas,,0,,,,,Economia e Finanças Públicas,477,8.03,477,8.03
+260,Economia e Finanças Públicas,01,1,Microeconomia,,,,Microeconomia,101,1.7,101,1.7
+261,Economia e Finanças Públicas,01.01,2,Microeconomia,Conceitos Básicos (Microeconomia),,,Conceitos Básicos (Microeconomia),7,0.12,7,0.12
+262,Economia e Finanças Públicas,01.01.01,3,Microeconomia,Conceitos Básicos (Microeconomia),"Escassez, Escolha e Custo de Oportunidade",,"Escassez, Escolha e Custo de Oportunidade",3,0.05,3,0.05
+263,Economia e Finanças Públicas,01.01.02,3,Microeconomia,Conceitos Básicos (Microeconomia),Curva de Possibilidades de Produção,,Curva de Possibilidades de Produção,4,0.07,4,0.07
+264,Economia e Finanças Públicas,01.02,2,Microeconomia,Demanda e Oferta,,,Demanda e Oferta,8,0.13,8,0.13
+265,Economia e Finanças Públicas,01.03,2,Microeconomia,Elasticidades,,,Elasticidades,20,0.34,20,0.34
+266,Economia e Finanças Públicas,01.03.01,3,Microeconomia,Elasticidades,Elasticidade Preço da Demanda,,Elasticidade Preço da Demanda,15,0.25,15,0.25
+267,Economia e Finanças Públicas,01.03.02,3,Microeconomia,Elasticidades,Elasticidade Renda da Demanda,,Elasticidade Renda da Demanda,2,0.03,2,0.03
+268,Economia e Finanças Públicas,01.03.03,3,Microeconomia,Elasticidades,Elasticidade Preço da Oferta,,Elasticidade Preço da Oferta,3,0.05,3,0.05
+269,Economia e Finanças Públicas,01.04,2,Microeconomia,Teoria do Consumidor,,,Teoria do Consumidor,11,0.19,11,0.19
+270,Economia e Finanças Públicas,01.04.01,3,Microeconomia,Teoria do Consumidor,Preferências e Curvas de Indiferença,,Preferências e Curvas de Indiferença,9,0.15,9,0.15
+271,Economia e Finanças Públicas,01.04.02,3,Microeconomia,Teoria do Consumidor,Equilíbrio do Consumidor,,Equilíbrio do Consumidor,1,0.02,1,0.02
+272,Economia e Finanças Públicas,01.04.03,3,Microeconomia,Teoria do Consumidor,Efeitos Renda e Substituição,,Efeitos Renda e Substituição,1,0.02,1,0.02
+273,Economia e Finanças Públicas,01.05,2,Microeconomia,Produção,,,Produção,3,0.05,3,0.05
+274,Economia e Finanças Públicas,01.06,2,Microeconomia,Custos,,,Custos,3,0.05,3,0.05
+275,Economia e Finanças Públicas,01.07,2,Microeconomia,Estruturas de Mercado,,,Estruturas de Mercado,27,0.45,27,0.45
+276,Economia e Finanças Públicas,01.07.01,3,Microeconomia,Estruturas de Mercado,Concorrência Perfeita,,Concorrência Perfeita,13,0.22,13,0.22
+277,Economia e Finanças Públicas,01.07.02,3,Microeconomia,Estruturas de Mercado,Monopólio,,Monopólio,10,0.17,10,0.17
+278,Economia e Finanças Públicas,01.07.03,3,Microeconomia,Estruturas de Mercado,Oligopólio,,Oligopólio,4,0.07,4,0.07
+279,Economia e Finanças Públicas,01.08,2,Microeconomia,Eficiência e Equilíbrio Geral,,,Eficiência e Equilíbrio Geral,1,0.02,1,0.02
+280,Economia e Finanças Públicas,01.08.01,3,Microeconomia,Eficiência e Equilíbrio Geral,Eficiência na Produção,,Eficiência na Produção,1,0.02,1,0.02
+281,Economia e Finanças Públicas,01.09,2,Microeconomia,Falhas de Mercado,,,Falhas de Mercado,7,0.12,7,0.12
+282,Economia e Finanças Públicas,01.09.01,3,Microeconomia,Falhas de Mercado,Bens Públicos (Economia),,Bens Públicos (Economia),2,0.03,2,0.03
+283,Economia e Finanças Públicas,01.09.02,3,Microeconomia,Falhas de Mercado,Externalidades,,Externalidades,5,0.08,5,0.08
+284,Economia e Finanças Públicas,01.10,2,Microeconomia,Incidência Tributária - Impacto da Carga Tributária sobre a Economia,,,Incidência Tributária - Impacto da Carga Tributária sobre a Economia,6,0.1,6,0.1
+285,Economia e Finanças Públicas,01.11,2,Microeconomia,Teoria dos Jogos,,,Teoria dos Jogos,1,0.02,1,0.02
+286,Economia e Finanças Públicas,01.12,2,Microeconomia,Políticas de Comércio Internacional,,,Políticas de Comércio Internacional,7,0.12,7,0.12
+287,Economia e Finanças Públicas,02,1,Macroeconomia,,,,Macroeconomia,136,2.29,136,2.29
+288,Economia e Finanças Públicas,02.01,2,Macroeconomia,Contas Nacionais,,,Contas Nacionais,17,0.29,17,0.29
+289,Economia e Finanças Públicas,02.01.01,3,Macroeconomia,Contas Nacionais,Conceitos e Identidades Macroeconômicos,,Conceitos e Identidades Macroeconômicos,15,0.25,15,0.25
+290,Economia e Finanças Públicas,02.01.02,3,Macroeconomia,Contas Nacionais,Produto Nominal X Produto Real (Deflator do PIB),,Produto Nominal X Produto Real (Deflator do PIB),2,0.03,2,0.03
+291,Economia e Finanças Públicas,02.02,2,Macroeconomia,Balanço de Pagamentos,,,Balanço de Pagamentos,30,0.5,30,0.5
+292,Economia e Finanças Públicas,02.03,2,Macroeconomia,Economia Clássica,,,Economia Clássica,1,0.02,1,0.02
+293,Economia e Finanças Públicas,02.04,2,Macroeconomia,Moeda,,,Moeda,16,0.27,16,0.27
+294,Economia e Finanças Públicas,02.04.01,3,Macroeconomia,Moeda,Funções e Atributos da Moeda,,Funções e Atributos da Moeda,3,0.05,3,0.05
+295,Economia e Finanças Públicas,02.04.02,3,Macroeconomia,Moeda,Demanda por Moeda,,Demanda por Moeda,4,0.07,4,0.07
+296,Economia e Finanças Públicas,02.04.03,3,Macroeconomia,Moeda,Oferta de Moeda e Agregados Monetários,,Oferta de Moeda e Agregados Monetários,5,0.08,5,0.08
+297,Economia e Finanças Públicas,02.04.04,3,Macroeconomia,Moeda,Multiplicador Monetário,,Multiplicador Monetário,3,0.05,3,0.05
+298,Economia e Finanças Públicas,02.04.05,3,Macroeconomia,Moeda,Teoria Quantitativa da Moeda,,Teoria Quantitativa da Moeda,1,0.02,1,0.02
+299,Economia e Finanças Públicas,02.05,2,Macroeconomia,Modelo IS-LM de Determinação da Renda e dos Juros,,,Modelo IS-LM de Determinação da Renda e dos Juros,15,0.25,15,0.25
+300,Economia e Finanças Públicas,02.05.01,3,Macroeconomia,Modelo IS-LM de Determinação da Renda e dos Juros,Economia Fechada,,Economia Fechada,2,0.03,2,0.03
+301,Economia e Finanças Públicas,02.05.02,3,Macroeconomia,Modelo IS-LM de Determinação da Renda e dos Juros,Economia Aberta (Modelo Mundell-Flemming),,Economia Aberta (Modelo Mundell-Flemming),13,0.22,13,0.22
+302,Economia e Finanças Públicas,02.06,2,Macroeconomia,Modelo de Oferta e Demanda Agregada (OA-DA) de Determinação da Renda e dos Preços,,,Modelo de Oferta e Demanda Agregada (OA-DA) de Determinação da Renda e dos Preços,2,0.03,2,0.03
+303,Economia e Finanças Públicas,02.07,2,Macroeconomia,Curvas de Phillips,,,Curvas de Phillips,3,0.05,3,0.05
+304,Economia e Finanças Públicas,02.08,2,Macroeconomia,Inflação,,,Inflação,5,0.08,5,0.08
+305,Economia e Finanças Públicas,02.09,2,Macroeconomia,Políticas de Governo ou Atuação do Estado na Economia,,,Políticas de Governo ou Atuação do Estado na Economia,13,0.22,13,0.22
+306,Economia e Finanças Públicas,02.09.01,3,Macroeconomia,Políticas de Governo ou Atuação do Estado na Economia,Política Monetária,,Política Monetária,13,0.22,13,0.22
+307,Economia e Finanças Públicas,02.10,2,Macroeconomia,Regimes Cambiais,,,Regimes Cambiais,19,0.32,19,0.32
+308,Economia e Finanças Públicas,02.11,2,Macroeconomia,Economia Intertemporal,,,Economia Intertemporal,2,0.03,2,0.03
+309,Economia e Finanças Públicas,02.11.01,3,Macroeconomia,Economia Intertemporal,Consumo no Modelo Intertemporal,,Consumo no Modelo Intertemporal,2,0.03,2,0.03
+310,Economia e Finanças Públicas,02.12,2,Macroeconomia,Crescimento Econômico,,,Crescimento Econômico,9,0.15,9,0.15
+311,Economia e Finanças Públicas,02.12.01,3,Macroeconomia,Crescimento Econômico,Modelo de Solow,,Modelo de Solow,7,0.12,7,0.12
+312,Economia e Finanças Públicas,02.12.02,3,Macroeconomia,Crescimento Econômico,Crescimento Endógeno e Outros Modelos,,Crescimento Endógeno e Outros Modelos,2,0.03,2,0.03
+313,Economia e Finanças Públicas,02.13,2,Macroeconomia,Expectativas Racionais,,,Expectativas Racionais,3,0.05,3,0.05
+314,Economia e Finanças Públicas,02.14,2,Macroeconomia,História do Pensamento Econômico,,,História do Pensamento Econômico,1,0.02,1,0.02
+315,Economia e Finanças Públicas,02.14.01,3,Macroeconomia,História do Pensamento Econômico,Novos Clássicos (Pensamento Econômico),,Novos Clássicos (Pensamento Econômico),1,0.02,1,0.02
+316,Economia e Finanças Públicas,03,1,Economia Internacional,,,,Economia Internacional,59,0.99,59,0.99
+317,Economia e Finanças Públicas,03.01,2,Economia Internacional,Modelo Ricardiano de Vantagens Comparativas,,,Modelo Ricardiano de Vantagens Comparativas,7,0.12,7,0.12
+318,Economia e Finanças Públicas,03.02,2,Economia Internacional,Modelo Heckscher-Ohlin,,,Modelo Heckscher-Ohlin,6,0.1,6,0.1
+319,Economia e Finanças Públicas,03.03,2,Economia Internacional,Comercio Internacional e Competição Imperfeita,,,Comercio Internacional e Competição Imperfeita,13,0.22,13,0.22
+320,Economia e Finanças Públicas,03.04,2,Economia Internacional,Instrumentos de Politica Internacional,,,Instrumentos de Politica Internacional,14,0.24,14,0.24
+321,Economia e Finanças Públicas,03.05,2,Economia Internacional,Economia Politica do Comercio Internacional,,,Economia Politica do Comercio Internacional,5,0.08,5,0.08
+322,Economia e Finanças Públicas,03.06,2,Economia Internacional,Sistema Financeiro e Monetário Internacional,,,Sistema Financeiro e Monetário Internacional,14,0.24,14,0.24
+323,Economia e Finanças Públicas,04,1,Finanças Públicas,,,,Finanças Públicas,16,0.27,16,0.27
+324,Economia e Finanças Públicas,04.01,2,Finanças Públicas,Bem Estar e Funções do Governo,,,Bem Estar e Funções do Governo,4,0.07,4,0.07
+325,Economia e Finanças Públicas,04.02,2,Finanças Públicas,Tributação - Financiamento dos Gastos Públicos,,,Tributação - Financiamento dos Gastos Públicos,1,0.02,1,0.02
+326,Economia e Finanças Públicas,04.02.01,3,Finanças Públicas,Tributação - Financiamento dos Gastos Públicos,Tipos de Impostos,,Tipos de Impostos,1,0.02,1,0.02
+327,Economia e Finanças Públicas,04.03,2,Finanças Públicas,"Dívida Pública, NFSP e Tipos de Déficit Público no Brasil",,,"Dívida Pública, NFSP e Tipos de Déficit Público no Brasil",8,0.13,8,0.13
+328,Economia e Finanças Públicas,04.04,2,Finanças Públicas,Federalismo Fiscal,,,Federalismo Fiscal,3,0.05,3,0.05
+329,Economia e Finanças Públicas,05,1,História da Economia,,,,História da Economia,7,0.12,7,0.12
+330,Economia e Finanças Públicas,05.01,2,História da Economia,Economia Politica Clássica,,,Economia Politica Clássica,1,0.02,1,0.02
+331,Economia e Finanças Públicas,05.01.01,3,História da Economia,Economia Politica Clássica,Karl Marx,,Karl Marx,1,0.02,1,0.02
+332,Economia e Finanças Públicas,05.02,2,História da Economia,Economia (Politica) Moderna ,,,Economia (Politica) Moderna ,6,0.1,6,0.1
+333,Economia e Finanças Públicas,05.02.01,3,História da Economia,Economia (Politica) Moderna ,John M. Keynes,,John M. Keynes,4,0.07,4,0.07
+334,Economia e Finanças Públicas,05.02.02,3,História da Economia,Economia (Politica) Moderna ,Fundamentos da Moderna Macroeconomia,,Fundamentos da Moderna Macroeconomia,2,0.03,2,0.03
+335,Economia e Finanças Públicas,06,1,Economia Brasileira,,,,Economia Brasileira,118,1.99,118,1.99
+336,Economia e Finanças Públicas,06.01,2,Economia Brasileira,Período Colonial (Economia Brasileira),,,Período Colonial (Economia Brasileira),2,0.03,2,0.03
+337,Economia e Finanças Públicas,06.01.01,3,Economia Brasileira,Período Colonial (Economia Brasileira),Economia Açucareira,,Economia Açucareira,1,0.02,1,0.02
+338,Economia e Finanças Públicas,06.01.02,3,Economia Brasileira,Período Colonial (Economia Brasileira),Mineração,,Mineração,1,0.02,1,0.02
+339,Economia e Finanças Públicas,06.02,2,Economia Brasileira,"Século XIX (Economia Cafeeira, Escravismo e Início da Industrialização)",,,"Século XIX (Economia Cafeeira, Escravismo e Início da Industrialização)",17,0.29,17,0.29
+340,Economia e Finanças Públicas,06.03,2,Economia Brasileira,Primeira Metade do Século XX (Economia Brasileira),,,Primeira Metade do Século XX (Economia Brasileira),39,0.66,39,0.66
+341,Economia e Finanças Públicas,06.03.01,3,Economia Brasileira,Primeira Metade do Século XX (Economia Brasileira),Início da Industrialização,,Início da Industrialização,16,0.27,16,0.27
+342,Economia e Finanças Públicas,06.03.02,3,Economia Brasileira,Primeira Metade do Século XX (Economia Brasileira),Depressão dos Anos 1930,,Depressão dos Anos 1930,8,0.13,8,0.13
+343,Economia e Finanças Públicas,06.03.03,3,Economia Brasileira,Primeira Metade do Século XX (Economia Brasileira),Economia no Pós-Guerra,,Economia no Pós-Guerra,12,0.2,12,0.2
+344,Economia e Finanças Públicas,06.03.04,3,Economia Brasileira,Primeira Metade do Século XX (Economia Brasileira),Reformas de Getúlio Vargas,,Reformas de Getúlio Vargas,3,0.05,3,0.05
+345,Economia e Finanças Públicas,06.04,2,Economia Brasileira,Plano de Metas e o Governo JK,,,Plano de Metas e o Governo JK,8,0.13,8,0.13
+346,Economia e Finanças Públicas,06.05,2,Economia Brasileira,A Economia da Década de 60 e do Regime Militar,,,A Economia da Década de 60 e do Regime Militar,2,0.03,2,0.03
+347,Economia e Finanças Públicas,06.06,2,Economia Brasileira,Plano Trienal,,,Plano Trienal,9,0.15,9,0.15
+348,Economia e Finanças Públicas,06.07,2,Economia Brasileira,PAEG,,,PAEG,1,0.02,1,0.02
+349,Economia e Finanças Públicas,06.08,2,Economia Brasileira,Milagre Econômico,,,Milagre Econômico,5,0.08,5,0.08
+350,Economia e Finanças Públicas,06.09,2,Economia Brasileira,Planos Nacionais de Desenvolvimento (PNDs),,,Planos Nacionais de Desenvolvimento (PNDs),3,0.05,3,0.05
+351,Economia e Finanças Públicas,06.10,2,Economia Brasileira,Crise da Dívida Externa,,,Crise da Dívida Externa,3,0.05,3,0.05
+352,Economia e Finanças Públicas,06.11,2,Economia Brasileira,Governo Sarney e os Planos Econômicos da Década Perdida (1980),,,Governo Sarney e os Planos Econômicos da Década Perdida (1980),17,0.29,17,0.29
+353,Economia e Finanças Públicas,06.11.01,3,Economia Brasileira,Governo Sarney e os Planos Econômicos da Década Perdida (1980),"Economia Brasileira na Década de 80 (a ""Década Perdida"")",,"Economia Brasileira na Década de 80 (a ""Década Perdida"")",5,0.08,5,0.08
+354,Economia e Finanças Públicas,06.11.02,3,Economia Brasileira,Governo Sarney e os Planos Econômicos da Década Perdida (1980),Plano Cruzado,,Plano Cruzado,9,0.15,9,0.15
+355,Economia e Finanças Públicas,06.11.03,3,Economia Brasileira,Governo Sarney e os Planos Econômicos da Década Perdida (1980),Plano Bresser,,Plano Bresser,1,0.02,1,0.02
+356,Economia e Finanças Públicas,06.11.04,3,Economia Brasileira,Governo Sarney e os Planos Econômicos da Década Perdida (1980),Plano Verão,,Plano Verão,2,0.03,2,0.03
+357,Economia e Finanças Públicas,06.12,2,Economia Brasileira,Governo Collor,,,Governo Collor,2,0.03,2,0.03
+358,Economia e Finanças Públicas,06.12.01,3,Economia Brasileira,Governo Collor,Plano Collor I,,Plano Collor I,2,0.03,2,0.03
+359,Economia e Finanças Públicas,06.13,2,Economia Brasileira,Economia Brasileira na Década de 1990,,,Economia Brasileira na Década de 1990,3,0.05,3,0.05
+360,Economia e Finanças Públicas,06.14,2,Economia Brasileira,Plano Real,,,Plano Real,3,0.05,3,0.05
+361,Economia e Finanças Públicas,06.14.01,3,Economia Brasileira,Plano Real,Antecedentes e Implantação,,Antecedentes e Implantação,3,0.05,3,0.05
+362,Economia e Finanças Públicas,06.15,2,Economia Brasileira,Governo Lula,,,Governo Lula,1,0.02,1,0.02
+363,Economia e Finanças Públicas,06.16,2,Economia Brasileira,Crise Financeira de 2008,,,Crise Financeira de 2008,3,0.05,3,0.05
+364,Economia e Finanças Públicas,07,1,Economia do Trabalho,,,,Economia do Trabalho,6,0.1,6,0.1
+365,Economia e Finanças Públicas,07.01,2,Economia do Trabalho,"Conceitos Básicos, Definições e Indicadores do Mercado de Trabalho",,,"Conceitos Básicos, Definições e Indicadores do Mercado de Trabalho",2,0.03,2,0.03
+366,Economia e Finanças Públicas,07.02,2,Economia do Trabalho,Desemprego,,,Desemprego,4,0.07,4,0.07
+367,Economia e Finanças Públicas,08,1,Desenvolvimento Econômico e Distribuição de Renda,,,,Desenvolvimento Econômico e Distribuição de Renda,10,0.17,10,0.17
+368,Economia e Finanças Públicas,08.01,2,Desenvolvimento Econômico e Distribuição de Renda,Teorias do Desenvolvimento Econômico,,,Teorias do Desenvolvimento Econômico,10,0.17,10,0.17
+369,Economia e Finanças Públicas,09,1,Sem Classificação,,,,Sem Classificação,24,0.4,24,0.4
+370,Língua Espanhola (Espanhol),,0,,,,,Língua Espanhola (Espanhol),300,5.05,300,5.05
+371,Língua Espanhola (Espanhol),01,1,Interpretação de Textos (Espanhol),,,,Interpretação de Textos (Espanhol),271,4.56,271,4.56
+372,Língua Espanhola (Espanhol),02,1,Sintaxe (Espanhol),,,,Sintaxe (Espanhol),5,0.08,5,0.08
+373,Língua Espanhola (Espanhol),02.01,2,Sintaxe (Espanhol),Uso e colocação dos pronomes (Espanhol),,,Uso e colocação dos pronomes (Espanhol),5,0.08,5,0.08
+374,Língua Espanhola (Espanhol),03,1,Semântica (Espanhol),,,,Semântica (Espanhol),18,0.3,18,0.3
+375,Língua Espanhola (Espanhol),03.01,2,Semântica (Espanhol),"Significado de Palavras e Expressões (Sinônimos, Antônimos, Parônimos, Denotação, Conotação, etc.)",,,"Significado de Palavras e Expressões (Sinônimos, Antônimos, Parônimos, Denotação, Conotação, etc.)",15,0.25,15,0.25
+376,Língua Espanhola (Espanhol),03.02,2,Semântica (Espanhol),"Divergências léxicas entre português e espanhol (falso cognato, heterossemânticos, heterotônicos)",,,"Divergências léxicas entre português e espanhol (falso cognato, heterossemânticos, heterotônicos)",1,0.02,1,0.02
+377,Língua Espanhola (Espanhol),03.03,2,Semântica (Espanhol),Figuras de Linguagem (Espanhol),,,Figuras de Linguagem (Espanhol),1,0.02,1,0.02
+378,Língua Espanhola (Espanhol),03.04,2,Semântica (Espanhol),Substituição de Palavras e Reescrita de Frases (Espanhol),,,Substituição de Palavras e Reescrita de Frases (Espanhol),1,0.02,1,0.02
+379,Língua Espanhola (Espanhol),04,1,Linguística Textual,,,,Linguística Textual,5,0.08,5,0.08
+380,Língua Espanhola (Espanhol),04.01,2,Linguística Textual,Coesão e coerência (Espanhol),,,Coesão e coerência (Espanhol),5,0.08,5,0.08
+381,Língua Espanhola (Espanhol),05,1,Literatura Espanhola,,,,Literatura Espanhola,1,0.02,1,0.02
+382,Língua Francesa (Francês),,0,,,,,Língua Francesa (Francês),300,5.05,300,5.05
+383,Língua Francesa (Francês),01,1,Gramática (Francês),,,,Gramática (Francês),55,0.93,55,0.93
+384,Língua Francesa (Francês),02,1,Interpretação de Textos (Francês),,,,Interpretação de Textos (Francês),159,2.68,159,2.68
+385,Língua Francesa (Francês),03,1,"Semântica, Vocabulário e Tradução (Francês)",,,,"Semântica, Vocabulário e Tradução (Francês)",86,1.45,86,1.45
+386,Relações Internacionais e Comércio Internacional,,0,,,,,Relações Internacionais e Comércio Internacional,664,11.18,664,11.18
+387,Relações Internacionais e Comércio Internacional,01,1,História das Relações Internacionais,,,,História das Relações Internacionais,61,1.03,61,1.03
+388,Relações Internacionais e Comércio Internacional,01.01,2,História das Relações Internacionais,Tratado de Westfália,,,Tratado de Westfália,1,0.02,1,0.02
+389,Relações Internacionais e Comércio Internacional,01.02,2,História das Relações Internacionais,Ordem Mundial do Século XX,,,Ordem Mundial do Século XX,13,0.22,13,0.22
+390,Relações Internacionais e Comércio Internacional,01.02.01,3,História das Relações Internacionais,Ordem Mundial do Século XX,A Criação da ONU,,A Criação da ONU,6,0.1,6,0.1
+391,Relações Internacionais e Comércio Internacional,01.02.02,3,História das Relações Internacionais,Ordem Mundial do Século XX,Ordem Mundial Bipolar e Guerra Fria,,Ordem Mundial Bipolar e Guerra Fria,7,0.12,7,0.12
+392,Relações Internacionais e Comércio Internacional,01.03,2,História das Relações Internacionais,Descolonização e Terceiro Mundo: Conflitos Pós-coloniais e Problemas de Desenvolvimento,,,Descolonização e Terceiro Mundo: Conflitos Pós-coloniais e Problemas de Desenvolvimento,18,0.3,18,0.3
+393,Relações Internacionais e Comércio Internacional,01.04,2,História das Relações Internacionais,Globalização e a Nova Ordem Mundial,,,Globalização e a Nova Ordem Mundial,4,0.07,4,0.07
+394,Relações Internacionais e Comércio Internacional,01.05,2,História das Relações Internacionais,O Mundo Pós-Guerra Fria,,,O Mundo Pós-Guerra Fria,25,0.42,25,0.42
+395,Relações Internacionais e Comércio Internacional,01.05.01,3,História das Relações Internacionais,O Mundo Pós-Guerra Fria,EUA,,EUA,6,0.1,6,0.1
+396,Relações Internacionais e Comércio Internacional,01.05.02,3,História das Relações Internacionais,O Mundo Pós-Guerra Fria,URSS e Rússia,,URSS e Rússia,7,0.12,7,0.12
+397,Relações Internacionais e Comércio Internacional,01.05.03,3,História das Relações Internacionais,O Mundo Pós-Guerra Fria,África e Ásia,,África e Ásia,12,0.2,12,0.2
+398,Relações Internacionais e Comércio Internacional,02,1,Teoria das Relações Internacionais,,,,Teoria das Relações Internacionais,29,0.49,29,0.49
+399,Relações Internacionais e Comércio Internacional,03,1,Teoria Política,,,,Teoria Política,3,0.05,3,0.05
+400,Relações Internacionais e Comércio Internacional,04,1,Política Externa,,,,Política Externa,233,3.92,233,3.92
+401,Relações Internacionais e Comércio Internacional,04.01,2,Política Externa,Política Externa Brasileira,,,Política Externa Brasileira,204,3.43,204,3.43
+402,Relações Internacionais e Comércio Internacional,04.02,2,Política Externa,Instituições e Processo Decisório em Política Externa,,,Instituições e Processo Decisório em Política Externa,21,0.35,21,0.35
+403,Relações Internacionais e Comércio Internacional,04.03,2,Política Externa,Opinião Pública e Política Externa,,,Opinião Pública e Política Externa,8,0.13,8,0.13
+404,Relações Internacionais e Comércio Internacional,05,1,Comércio Internacional,,,,Comércio Internacional,172,2.9,172,2.9
+405,Relações Internacionais e Comércio Internacional,05.01,2,Comércio Internacional,Teorias do Comércio Internacional,,,Teorias do Comércio Internacional,3,0.05,3,0.05
+406,Relações Internacionais e Comércio Internacional,05.02,2,Comércio Internacional,Organização Mundial do Comércio (OMC),,,Organização Mundial do Comércio (OMC),29,0.49,29,0.49
+407,Relações Internacionais e Comércio Internacional,05.02.01,3,Comércio Internacional,Organização Mundial do Comércio (OMC),OMC - Estrutura e Funcionamento,,OMC - Estrutura e Funcionamento,15,0.25,15,0.25
+408,Relações Internacionais e Comércio Internacional,05.02.02,3,Comércio Internacional,Organização Mundial do Comércio (OMC),Acordos Administrativos pela OMC,,Acordos Administrativos pela OMC,14,0.24,14,0.24
+409,Relações Internacionais e Comércio Internacional,05.03,2,Comércio Internacional,Políticas Comerciais,,,Políticas Comerciais,4,0.07,4,0.07
+410,Relações Internacionais e Comércio Internacional,05.04,2,Comércio Internacional,UNCTAD e Sistemas Preferenciais,,,UNCTAD e Sistemas Preferenciais,1,0.02,1,0.02
+411,Relações Internacionais e Comércio Internacional,05.05,2,Comércio Internacional,Integração Regional,,,Integração Regional,85,1.43,85,1.43
+412,Relações Internacionais e Comércio Internacional,05.05.01,3,Comércio Internacional,Integração Regional,Estágios de Integração e Globalização,,Estágios de Integração e Globalização,5,0.08,5,0.08
+413,Relações Internacionais e Comércio Internacional,05.05.02,3,Comércio Internacional,Integração Regional,Integração Regional nas Américas,,Integração Regional nas Américas,38,0.64,38,0.64
+414,Relações Internacionais e Comércio Internacional,05.05.03,3,Comércio Internacional,Integração Regional,MERCOSUL (Comércio Internacional),,MERCOSUL (Comércio Internacional),24,0.4,24,0.4
+415,Relações Internacionais e Comércio Internacional,05.05.04,3,Comércio Internacional,Integração Regional,União Europeia (Comércio Internacional),,União Europeia (Comércio Internacional),18,0.3,18,0.3
+416,Relações Internacionais e Comércio Internacional,05.06,2,Comércio Internacional,Práticas Desleais de Comércio e Defesa Comercial,,,Práticas Desleais de Comércio e Defesa Comercial,5,0.08,5,0.08
+417,Relações Internacionais e Comércio Internacional,05.06.01,3,Comércio Internacional,Práticas Desleais de Comércio e Defesa Comercial,Medidas de Salvaguarda,,Medidas de Salvaguarda,2,0.03,2,0.03
+418,Relações Internacionais e Comércio Internacional,05.06.02,3,Comércio Internacional,Práticas Desleais de Comércio e Defesa Comercial,Subsídios,,Subsídios,3,0.05,3,0.05
+419,Relações Internacionais e Comércio Internacional,05.07,2,Comércio Internacional,Sistema Administrativo e Instituições Intervenientes no Comércio Exterior,,,Sistema Administrativo e Instituições Intervenientes no Comércio Exterior,1,0.02,1,0.02
+420,Relações Internacionais e Comércio Internacional,05.07.01,3,Comércio Internacional,Sistema Administrativo e Instituições Intervenientes no Comércio Exterior,Outras Instituições Intervenientes,,Outras Instituições Intervenientes,1,0.02,1,0.02
+421,Relações Internacionais e Comércio Internacional,05.08,2,Comércio Internacional,Educação no Exterior,,,Educação no Exterior,44,0.74,44,0.74
+422,Relações Internacionais e Comércio Internacional,06,1,Regime de Segurança Internacional,,,,Regime de Segurança Internacional,65,1.09,65,1.09
+423,Relações Internacionais e Comércio Internacional,06.01,2,Regime de Segurança Internacional,Ameaças Internacionais,,,Ameaças Internacionais,14,0.24,14,0.24
+424,Relações Internacionais e Comércio Internacional,06.02,2,Regime de Segurança Internacional,Conselho de Segurança da ONU,,,Conselho de Segurança da ONU,21,0.35,21,0.35
+425,Relações Internacionais e Comércio Internacional,06.03,2,Regime de Segurança Internacional,"Tratados de Segurança (OTAN, Pacto de Varsóvia, etc.)",,,"Tratados de Segurança (OTAN, Pacto de Varsóvia, etc.)",4,0.07,4,0.07
+426,Relações Internacionais e Comércio Internacional,06.04,2,Regime de Segurança Internacional,"Desenvolvimento, Sustentabilidade, Democracia e Direitos Humanos",,,"Desenvolvimento, Sustentabilidade, Democracia e Direitos Humanos",26,0.44,26,0.44
+427,Relações Internacionais e Comércio Internacional,07,1,Economia e Finanças Internacionais,,,,Economia e Finanças Internacionais,18,0.3,18,0.3
+428,Relações Internacionais e Comércio Internacional,08,1,Sem Classificação,,,,Sem Classificação,83,1.4,83,1.4
+429,História,,0,,,,,História,1502,25.28,1502,25.28
+430,História,01,1,Historiografia,,,,Historiografia,6,0.1,6,0.1
+431,História,02,1,História do Brasil,,,,História do Brasil,688,11.58,688,11.58
+432,História,02.01,2,História do Brasil,"Pré-Descobrimento (até 1.500, incluindo Tratado de Tordesilhas)",,,"Pré-Descobrimento (até 1.500, incluindo Tratado de Tordesilhas)",1,0.02,1,0.02
+433,História,02.02,2,História do Brasil,Período Colonial (1500-1822),,,Período Colonial (1500-1822),127,2.14,127,2.14
+434,História,02.02.01,3,História do Brasil,Período Colonial (1500-1822),Descobrimento e Primeira Colonização (de 1500 a 1530),,Descobrimento e Primeira Colonização (de 1500 a 1530),1,0.02,1,0.02
+435,História,02.02.02,3,História do Brasil,Período Colonial (1500-1822),Extração de Pau Brasil e a Concorrência Estrangeira,,Extração de Pau Brasil e a Concorrência Estrangeira,1,0.02,1,0.02
+436,História,02.02.03,3,História do Brasil,Período Colonial (1500-1822),Capitanias Hereditárias  (Brasil Colônia),,Capitanias Hereditárias  (Brasil Colônia),5,0.08,5,0.08
+437,História,02.02.04,3,História do Brasil,Período Colonial (1500-1822),Invasões Estrangeiras durante o Período Colonial,,Invasões Estrangeiras durante o Período Colonial,2,0.03,2,0.03
+438,História,02.02.05,3,História do Brasil,Período Colonial (1500-1822),Governo Geral (Brasil Colônia),,Governo Geral (Brasil Colônia),8,0.13,8,0.13
+439,História,02.02.06,3,História do Brasil,Período Colonial (1500-1822),Exploração da Cana de Açúcar (Brasil Colônia),,Exploração da Cana de Açúcar (Brasil Colônia),3,0.05,3,0.05
+440,História,02.02.07,3,História do Brasil,Período Colonial (1500-1822),"Bandeirantes e Expansão Territorial nos Séculos XVI a XVIII. Tratados de Madri, Badajoz, Santo Idelfonso, El Pardo, Utrecht",,"Bandeirantes e Expansão Territorial nos Séculos XVI a XVIII. Tratados de Madri, Badajoz, Santo Idelfonso, El Pardo, Utrecht",19,0.32,19,0.32
+441,História,02.02.08,3,História do Brasil,Período Colonial (1500-1822),Mineração e Ciclo do Ouro,,Mineração e Ciclo do Ouro,8,0.13,8,0.13
+442,História,02.02.09,3,História do Brasil,Período Colonial (1500-1822),"Os Índios durante o Período Colonial (Alianças, Conflitos, Aculturação, Escravidão, etc)",,"Os Índios durante o Período Colonial (Alianças, Conflitos, Aculturação, Escravidão, etc)",1,0.02,1,0.02
+443,História,02.02.10,3,História do Brasil,Período Colonial (1500-1822),"Os Negros durante o Período Colonial (Cultura, Escravidão, Tráfico Negreiro, etc)",,"Os Negros durante o Período Colonial (Cultura, Escravidão, Tráfico Negreiro, etc)",1,0.02,1,0.02
+444,História,02.02.11,3,História do Brasil,Período Colonial (1500-1822),"Guerras e Conflitos Internos no Período Colonial (Emboabas, Mascates, Revolta de Beckman, Filipe dos Santos, etc)",,"Guerras e Conflitos Internos no Período Colonial (Emboabas, Mascates, Revolta de Beckman, Filipe dos Santos, etc)",3,0.05,3,0.05
+445,História,02.02.12,3,História do Brasil,Período Colonial (1500-1822),Religião durante o Período Colonial (inclui Missões Jesuíticas),,Religião durante o Período Colonial (inclui Missões Jesuíticas),2,0.03,2,0.03
+446,História,02.02.13,3,História do Brasil,Período Colonial (1500-1822),"Artes, Cultura e Sociedade Coloniais (Educação, Ciência, Artes)",,"Artes, Cultura e Sociedade Coloniais (Educação, Ciência, Artes)",1,0.02,1,0.02
+447,História,02.02.14,3,História do Brasil,Período Colonial (1500-1822),Movimentos Emancipacionistas,,Movimentos Emancipacionistas,10,0.17,10,0.17
+448,História,02.02.15,3,História do Brasil,Período Colonial (1500-1822),Período Joanino e Crise do Sistema Colonial,,Período Joanino e Crise do Sistema Colonial,26,0.44,26,0.44
+449,História,02.02.16,3,História do Brasil,Período Colonial (1500-1822),A Independência (1822) e a Guerra de Independência,,A Independência (1822) e a Guerra de Independência,25,0.42,25,0.42
+450,História,02.02.17,3,História do Brasil,Período Colonial (1500-1822),Outras Questões sobre o Brasil Colônia,,Outras Questões sobre o Brasil Colônia,11,0.19,11,0.19
+451,História,02.03,2,História do Brasil,Primeiro Reinado (1822-1831),,,Primeiro Reinado (1822-1831),52,0.88,52,0.88
+452,História,02.03.01,3,História do Brasil,Primeiro Reinado (1822-1831),"Constituição de 1824 e a Política no Primeiro Reinado (Liberalismo, Federalismo, Confederação do Equador)",,"Constituição de 1824 e a Política no Primeiro Reinado (Liberalismo, Federalismo, Confederação do Equador)",14,0.24,14,0.24
+453,História,02.03.02,3,História do Brasil,Primeiro Reinado (1822-1831),Política Externa do Primeiro Reinado (Reconhecimento da Independência),,Política Externa do Primeiro Reinado (Reconhecimento da Independência),16,0.27,16,0.27
+454,História,02.03.03,3,História do Brasil,Primeiro Reinado (1822-1831),Economia no Primeiro Reinado,,Economia no Primeiro Reinado,2,0.03,2,0.03
+455,História,02.03.04,3,História do Brasil,Primeiro Reinado (1822-1831),Guerra da Cisplatina,,Guerra da Cisplatina,10,0.17,10,0.17
+456,História,02.03.05,3,História do Brasil,Primeiro Reinado (1822-1831),"A Escravidão Durante o Primeiro Reinado. Tratado Anglo Brasileiro, Lei Feijó.",,"A Escravidão Durante o Primeiro Reinado. Tratado Anglo Brasileiro, Lei Feijó.",1,0.02,1,0.02
+457,História,02.03.06,3,História do Brasil,Primeiro Reinado (1822-1831),"Religião, Sociedade e Cultura durante o Primeiro Reinado (Educação, Ciência, Artes)",,"Religião, Sociedade e Cultura durante o Primeiro Reinado (Educação, Ciência, Artes)",1,0.02,1,0.02
+458,História,02.03.07,3,História do Brasil,Primeiro Reinado (1822-1831),A Crise Final do Primeiro Reinado e a Abdicação de Dom Pedro,,A Crise Final do Primeiro Reinado e a Abdicação de Dom Pedro,1,0.02,1,0.02
+459,História,02.03.08,3,História do Brasil,Primeiro Reinado (1822-1831),Outras Questões sobre o Primeiro Reinado,,Outras Questões sobre o Primeiro Reinado,7,0.12,7,0.12
+460,História,02.04,2,História do Brasil,Período Regencial (1831-1840),,,Período Regencial (1831-1840),32,0.54,32,0.54
+461,História,02.04.01,3,História do Brasil,Período Regencial (1831-1840),"Política no Período Regencial (Regências, Reformas Institucionais e Políticas, Código de Processo Criminal de 1832, Ato Adicional de 1834)",,"Política no Período Regencial (Regências, Reformas Institucionais e Políticas, Código de Processo Criminal de 1832, Ato Adicional de 1834)",10,0.17,10,0.17
+462,História,02.04.02,3,História do Brasil,Período Regencial (1831-1840),"Revoltas Provinciais no Período Regencial (Cabanagem, Farroupilha, Sabinada, Balaiada)",,"Revoltas Provinciais no Período Regencial (Cabanagem, Farroupilha, Sabinada, Balaiada)",16,0.27,16,0.27
+463,História,02.04.03,3,História do Brasil,Período Regencial (1831-1840),A Crise do Período Regencial e o Golpe de Maioridade (1840),,A Crise do Período Regencial e o Golpe de Maioridade (1840),1,0.02,1,0.02
+464,História,02.04.04,3,História do Brasil,Período Regencial (1831-1840),Outras Questões sobre o Período Regencial,,Outras Questões sobre o Período Regencial,5,0.08,5,0.08
+465,História,02.05,2,História do Brasil,Segundo Reinado (1840-1889),,,Segundo Reinado (1840-1889),73,1.23,73,1.23
+466,História,02.05.01,3,História do Brasil,Segundo Reinado (1840-1889),Política no Segundo Reinado,,Política no Segundo Reinado,13,0.22,13,0.22
+467,História,02.05.02,3,História do Brasil,Segundo Reinado (1840-1889),Política Externa no Segundo Reinado,,Política Externa no Segundo Reinado,12,0.2,12,0.2
+468,História,02.05.03,3,História do Brasil,Segundo Reinado (1840-1889),Economia no Segundo Reinado,,Economia no Segundo Reinado,7,0.12,7,0.12
+469,História,02.05.04,3,História do Brasil,Segundo Reinado (1840-1889),"Os Negros no Segundo Reinado (Abolição da Escravatura, Vida nos Negros Escravizados e Livres, Leis Eusébio de Queiroz, Áurea, Ventre livre)",,"Os Negros no Segundo Reinado (Abolição da Escravatura, Vida nos Negros Escravizados e Livres, Leis Eusébio de Queiroz, Áurea, Ventre livre)",9,0.15,9,0.15
+470,História,02.05.05,3,História do Brasil,Segundo Reinado (1840-1889),Imigração e Substituição do Trabalho Escravo no Segundo Reinado,,Imigração e Substituição do Trabalho Escravo no Segundo Reinado,4,0.07,4,0.07
+471,História,02.05.06,3,História do Brasil,Segundo Reinado (1840-1889),Revolução Praieira,,Revolução Praieira,1,0.02,1,0.02
+472,História,02.05.07,3,História do Brasil,Segundo Reinado (1840-1889),Lei de Terras de 1850,,Lei de Terras de 1850,9,0.15,9,0.15
+473,História,02.05.08,3,História do Brasil,Segundo Reinado (1840-1889),Guerra do Paraguai (1864-1870),,Guerra do Paraguai (1864-1870),4,0.07,4,0.07
+474,História,02.05.09,3,História do Brasil,Segundo Reinado (1840-1889),Crise da Monarquia e Proclamação da República (do Movimento Republicano ao Golpe de 1889),,Crise da Monarquia e Proclamação da República (do Movimento Republicano ao Golpe de 1889),10,0.17,10,0.17
+475,História,02.05.10,3,História do Brasil,Segundo Reinado (1840-1889),"Religião, Sociedade e Cultura durante o Segundo Reinado (Educação, Ciência, Artes)",,"Religião, Sociedade e Cultura durante o Segundo Reinado (Educação, Ciência, Artes)",4,0.07,4,0.07
+476,História,02.06,2,História do Brasil,Primeira República (1889-1930),,,Primeira República (1889-1930),96,1.62,96,1.62
+477,História,02.06.01,3,História do Brasil,Primeira República (1889-1930),A Constituição de 1891,,A Constituição de 1891,2,0.03,2,0.03
+478,História,02.06.02,3,História do Brasil,Primeira República (1889-1930),Governo Floriano Peixoto (Revolução Federalista),,Governo Floriano Peixoto (Revolução Federalista),4,0.07,4,0.07
+479,História,02.06.03,3,História do Brasil,Primeira República (1889-1930),A República Oligárquica (1894 - 1930). Política do Café com Leite. Coronelismo,,A República Oligárquica (1894 - 1930). Política do Café com Leite. Coronelismo,27,0.45,27,0.45
+480,História,02.06.04,3,História do Brasil,Primeira República (1889-1930),"Revoltas durante a República Oligárquica (Revoltas de Canudos, da Vacina, da Chibata, Contestado, Tenentismo)",,"Revoltas durante a República Oligárquica (Revoltas de Canudos, da Vacina, da Chibata, Contestado, Tenentismo)",5,0.08,5,0.08
+481,História,02.06.05,3,História do Brasil,Primeira República (1889-1930),Economia na Primeira República,,Economia na Primeira República,8,0.13,8,0.13
+482,História,02.06.06,3,História do Brasil,Primeira República (1889-1930),Política Externa na Primeira República e o Brasil na Primeira Guerra Mundial,,Política Externa na Primeira República e o Brasil na Primeira Guerra Mundial,26,0.44,26,0.44
+483,História,02.06.07,3,História do Brasil,Primeira República (1889-1930),Movimento Operário e Anarquismo durante a República Oligárquica,,Movimento Operário e Anarquismo durante a República Oligárquica,1,0.02,1,0.02
+484,História,02.06.08,3,História do Brasil,Primeira República (1889-1930),"Religião, Sociedade e Cultura na Primeira República",,"Religião, Sociedade e Cultura na Primeira República",5,0.08,5,0.08
+485,História,02.06.09,3,História do Brasil,Primeira República (1889-1930),A Crise do Sistema Político e o Colapso das Alianças Políticas na Primeira República,,A Crise do Sistema Político e o Colapso das Alianças Políticas na Primeira República,15,0.25,15,0.25
+486,História,02.06.10,3,História do Brasil,Primeira República (1889-1930),Outras Questões sobre a Primeira República,,Outras Questões sobre a Primeira República,3,0.05,3,0.05
+487,História,02.07,2,História do Brasil,Era Vargas (1930-1945),,,Era Vargas (1930-1945),97,1.63,97,1.63
+488,História,02.07.01,3,História do Brasil,Era Vargas (1930-1945),A Ascensão de Getúlio Vargas (1930 a 1937) - Da Revolução de 1930 ao Governo Constitucional,,A Ascensão de Getúlio Vargas (1930 a 1937) - Da Revolução de 1930 ao Governo Constitucional,16,0.27,16,0.27
+489,História,02.07.02,3,História do Brasil,Era Vargas (1930-1945),O Estado Novo (1937-1945): a Guinada Autoritária e a Constituição de 1937,,O Estado Novo (1937-1945): a Guinada Autoritária e a Constituição de 1937,24,0.4,24,0.4
+490,História,02.07.03,3,História do Brasil,Era Vargas (1930-1945),Economia na Era Vargas: do Café à Indústria,,Economia na Era Vargas: do Café à Indústria,15,0.25,15,0.25
+491,História,02.07.04,3,História do Brasil,Era Vargas (1930-1945),Política Externa e Relações Internacionais na Era Vargas. O Brasil na Segunda Guerra,,Política Externa e Relações Internacionais na Era Vargas. O Brasil na Segunda Guerra,18,0.3,18,0.3
+492,História,02.07.05,3,História do Brasil,Era Vargas (1930-1945),"Religião, Sociedade e Cultura na Era Vargas. Movimentos Sociais (AIB, ANL, Movimento Comunista, Movimento Modernista, etc)",,"Religião, Sociedade e Cultura na Era Vargas. Movimentos Sociais (AIB, ANL, Movimento Comunista, Movimento Modernista, etc)",4,0.07,4,0.07
+493,História,02.07.06,3,História do Brasil,Era Vargas (1930-1945),O Pós-guerra e a Crise Final do Estado Novo,,O Pós-guerra e a Crise Final do Estado Novo,13,0.22,13,0.22
+494,História,02.07.07,3,História do Brasil,Era Vargas (1930-1945),Outras Questões sobre Era Vargas,,Outras Questões sobre Era Vargas,7,0.12,7,0.12
+495,História,02.08,2,História do Brasil,República Liberal (1945-1964),,,República Liberal (1945-1964),88,1.48,88,1.48
+496,História,02.08.01,3,História do Brasil,República Liberal (1945-1964),Política e Economia na República Liberal,,Política e Economia na República Liberal,51,0.86,51,0.86
+497,História,02.08.01.01,4,História do Brasil,República Liberal (1945-1964),Política e Economia na República Liberal,Governo Dutra e Constituição de 1946,Governo Dutra e Constituição de 1946,10,0.17,10,0.17
+498,História,02.08.01.02,4,História do Brasil,República Liberal (1945-1964),Política e Economia na República Liberal,Governo Getúlio Vargas (1951 - 1954),Governo Getúlio Vargas (1951 - 1954),6,0.1,6,0.1
+499,História,02.08.01.03,4,História do Brasil,República Liberal (1945-1964),Política e Economia na República Liberal,"Governo JK (Plano de Metas, Construção de Brasília)","Governo JK (Plano de Metas, Construção de Brasília)",25,0.42,25,0.42
+500,História,02.08.01.04,4,História do Brasil,República Liberal (1945-1964),Política e Economia na República Liberal,Governo Jânio Quadros (1961),Governo Jânio Quadros (1961),2,0.03,2,0.03
+501,História,02.08.01.05,4,História do Brasil,República Liberal (1945-1964),Política e Economia na República Liberal,Governo João Goulart e Golpe de 1964,Governo João Goulart e Golpe de 1964,8,0.13,8,0.13
+502,História,02.08.02,3,História do Brasil,República Liberal (1945-1964),Política Externa na República Liberal ,,Política Externa na República Liberal ,25,0.42,25,0.42
+503,História,02.08.03,3,História do Brasil,República Liberal (1945-1964),"Artes, Cultura e sociedade na República Liberal",,"Artes, Cultura e sociedade na República Liberal",1,0.02,1,0.02
+504,História,02.08.04,3,História do Brasil,República Liberal (1945-1964),Outras Questões e Questões Mescladas sobre República Liberal,,Outras Questões e Questões Mescladas sobre República Liberal,11,0.19,11,0.19
+505,História,02.09,2,História do Brasil,Regime Militar (1964-1985),,,Regime Militar (1964-1985),67,1.13,67,1.13
+506,História,02.09.01,3,História do Brasil,Regime Militar (1964-1985),"Consolidação do Regime Militar (1964 - 1968; Inclui AI-1 até AI-4, e CF 1967)",,"Consolidação do Regime Militar (1964 - 1968; Inclui AI-1 até AI-4, e CF 1967)",4,0.07,4,0.07
+507,História,02.09.02,3,História do Brasil,Regime Militar (1964-1985),"Repressão Aberta e Autoritarismo Máximo (1968 - 1974; AI-5, EC 1/69, DOI-CODI, Guerrilha do Araguaia)",,"Repressão Aberta e Autoritarismo Máximo (1968 - 1974; AI-5, EC 1/69, DOI-CODI, Guerrilha do Araguaia)",5,0.08,5,0.08
+508,História,02.09.03,3,História do Brasil,Regime Militar (1964-1985),Abertura e Transição Democrática (1974 - 1985),,Abertura e Transição Democrática (1974 - 1985),13,0.22,13,0.22
+509,História,02.09.04,3,História do Brasil,Regime Militar (1964-1985),Economia no Regime Militar,,Economia no Regime Militar,13,0.22,13,0.22
+510,História,02.09.05,3,História do Brasil,Regime Militar (1964-1985),"Reformas Administrativas, Investimentos e Reformas Públicas no Regime Militar: o Brasil Potência",,"Reformas Administrativas, Investimentos e Reformas Públicas no Regime Militar: o Brasil Potência",5,0.08,5,0.08
+511,História,02.09.06,3,História do Brasil,Regime Militar (1964-1985),Política Externa do Regime Militar,,Política Externa do Regime Militar,21,0.35,21,0.35
+512,História,02.09.07,3,História do Brasil,Regime Militar (1964-1985),"Artes, Cultura e Sociedade no Regime Militar",,"Artes, Cultura e Sociedade no Regime Militar",3,0.05,3,0.05
+513,História,02.09.08,3,História do Brasil,Regime Militar (1964-1985),Outras Questões e Questões Mescladas sobre o Regime Militar,,Outras Questões e Questões Mescladas sobre o Regime Militar,3,0.05,3,0.05
+514,História,02.10,2,História do Brasil,Nova República,,,Nova República,53,0.89,53,0.89
+515,História,02.10.01,3,História do Brasil,Nova República,A Redemocratização na Nova República e a Constituição de 1988,,A Redemocratização na Nova República e a Constituição de 1988,23,0.39,23,0.39
+516,História,02.10.02,3,História do Brasil,Nova República,Política Brasileira na Nova República,,Política Brasileira na Nova República,2,0.03,2,0.03
+517,História,02.10.03,3,História do Brasil,Nova República,Economia Brasileira da Nova República: da Hiperinflação à Globalização e o Neodesenvolvimentismo,,Economia Brasileira da Nova República: da Hiperinflação à Globalização e o Neodesenvolvimentismo,16,0.27,16,0.27
+518,História,02.10.04,3,História do Brasil,Nova República,Política Externa na Nova República,,Política Externa na Nova República,5,0.08,5,0.08
+519,História,02.10.05,3,História do Brasil,Nova República,"Artes, Cultura e Sociedade na Nova República",,"Artes, Cultura e Sociedade na Nova República",7,0.12,7,0.12
+520,História,02.11,2,História do Brasil,História dos Estados,,,História dos Estados,1,0.02,1,0.02
+521,História,02.11.01,3,História do Brasil,História dos Estados,História do Acre,,História do Acre,1,0.02,1,0.02
+522,História,02.12,2,História do Brasil,História Militar e Naval,,,História Militar e Naval,1,0.02,1,0.02
+523,História,03,1,História Geral,,,,História Geral,750,12.62,750,12.62
+524,História,03.01,2,História Geral,Idade Moderna,,,Idade Moderna,34,0.57,34,0.57
+525,História,03.01.01,3,História Geral,Idade Moderna,"Mercantilismo, Grandes Navegações e Colonialismo",,"Mercantilismo, Grandes Navegações e Colonialismo",13,0.22,13,0.22
+526,História,03.01.01.01,4,História Geral,Idade Moderna,"Mercantilismo, Grandes Navegações e Colonialismo",Grandes Navegações,Grandes Navegações,1,0.02,1,0.02
+527,História,03.01.01.02,4,História Geral,Idade Moderna,"Mercantilismo, Grandes Navegações e Colonialismo",Colonialismo,Colonialismo,5,0.08,5,0.08
+528,História,03.01.01.03,4,História Geral,Idade Moderna,"Mercantilismo, Grandes Navegações e Colonialismo",Mercantilismo,Mercantilismo,7,0.12,7,0.12
+529,História,03.01.02,3,História Geral,Idade Moderna,Iluminismo,,Iluminismo,4,0.07,4,0.07
+530,História,03.01.03,3,História Geral,Idade Moderna,"Estados Modernos, Antigo Regime e Absolutismo",,"Estados Modernos, Antigo Regime e Absolutismo",2,0.03,2,0.03
+531,História,03.01.04,3,História Geral,Idade Moderna,"Povos Americanos (Maias, Astecas e Incas)",,"Povos Americanos (Maias, Astecas e Incas)",1,0.02,1,0.02
+532,História,03.01.05,3,História Geral,Idade Moderna,"Artes, Culturas e Sociedades: do Renascimento ao Pré-romantismo",,"Artes, Culturas e Sociedades: do Renascimento ao Pré-romantismo",3,0.05,3,0.05
+533,História,03.01.06,3,História Geral,Idade Moderna,"Revolução Inglesa (Puritana, Guerra Civil, Oliver Cromwell, Stuart, Revolução Gloriosa)",,"Revolução Inglesa (Puritana, Guerra Civil, Oliver Cromwell, Stuart, Revolução Gloriosa)",4,0.07,4,0.07
+534,História,03.01.07,3,História Geral,Idade Moderna,"Formação dos Estados Unidos (13 colonias, Guerra de Independência)",,"Formação dos Estados Unidos (13 colonias, Guerra de Independência)",7,0.12,7,0.12
+535,História,03.02,2,História Geral,História Contemporânea,,,História Contemporânea,711,11.97,711,11.97
+536,História,03.02.01,3,História Geral,História Contemporânea,Século XIX,,Século XIX,333,5.61,333,5.61
+537,História,03.02.01.01,4,História Geral,História Contemporânea,Século XIX,Revolução Francesa e Era Napoleônica,Revolução Francesa e Era Napoleônica,20,0.34,20,0.34
+538,História,03.02.01.02,4,História Geral,História Contemporânea,Século XIX,O Congresso de Viena e a Restauração do Antigo Regime,O Congresso de Viena e a Restauração do Antigo Regime,29,0.49,29,0.49
+539,História,03.02.01.03,4,História Geral,História Contemporânea,Século XIX,As Revoluções Burguesas e o Nacionalismo,As Revoluções Burguesas e o Nacionalismo,69,1.16,69,1.16
+540,História,03.02.01.04,4,História Geral,História Contemporânea,Século XIX,"Revolução Industrial, Vida Econômica e Transformações Sociais","Revolução Industrial, Vida Econômica e Transformações Sociais",59,0.99,59,0.99
+541,História,03.02.01.05,4,História Geral,História Contemporânea,Século XIX,Vida Política pós-1848 e o Fim de Século,Vida Política pós-1848 e o Fim de Século,50,0.84,50,0.84
+542,História,03.02.01.06,4,História Geral,História Contemporânea,Século XIX,Imperialismo do Século XIX,Imperialismo do Século XIX,63,1.06,63,1.06
+543,História,03.02.01.07,4,História Geral,História Contemporânea,Século XIX,A América no Século XIX,A América no Século XIX,43,0.72,43,0.72
+544,História,03.02.02,3,História Geral,História Contemporânea,Século XX,,Século XX,328,5.52,328,5.52
+545,História,03.02.02.01,4,História Geral,História Contemporânea,Século XX,A Crise Internacional e a Primeira Guerra Mundial,A Crise Internacional e a Primeira Guerra Mundial,54,0.91,54,0.91
+546,História,03.02.02.02,4,História Geral,História Contemporânea,Século XX,Revolução Russa (1917),Revolução Russa (1917),23,0.39,23,0.39
+547,História,03.02.02.03,4,História Geral,História Contemporânea,Século XX,Período Entreguerras,Período Entreguerras,15,0.25,15,0.25
+548,História,03.02.02.04,4,História Geral,História Contemporânea,Século XX,Segunda Guerra Mundial (1939-1945),Segunda Guerra Mundial (1939-1945),44,0.74,44,0.74
+549,História,03.02.02.05,4,História Geral,História Contemporânea,Século XX,Guerra Fria e as Superpotências,Guerra Fria e as Superpotências,70,1.18,70,1.18
+550,História,03.02.02.06,4,História Geral,História Contemporânea,Século XX,Descolonização Afro-asiática,Descolonização Afro-asiática,39,0.66,39,0.66
+551,História,03.02.02.07,4,História Geral,História Contemporânea,Século XX,Economia no Século XX,Economia no Século XX,33,0.56,33,0.56
+552,História,03.02.02.08,4,História Geral,História Contemporânea,Século XX,América Latina no Século XX,América Latina no Século XX,21,0.35,21,0.35
+553,História,03.02.02.09,4,História Geral,História Contemporânea,Século XX,Europa no Século XX: da Reconstrução à União Europeia,Europa no Século XX: da Reconstrução à União Europeia,18,0.3,18,0.3
+554,História,03.02.02.10,4,História Geral,História Contemporânea,Século XX,África e Ásia Pós-descolonização,África e Ásia Pós-descolonização,4,0.07,4,0.07
+555,História,03.02.02.11,4,História Geral,História Contemporânea,Século XX,O Fim da Bipolaridade e a Nova Ordem Mundial,O Fim da Bipolaridade e a Nova Ordem Mundial,7,0.12,7,0.12
+556,História,03.02.03,3,História Geral,História Contemporânea,Artes e Cultura desde 1789,,Artes e Cultura desde 1789,39,0.66,39,0.66
+557,História,03.02.04,3,História Geral,História Contemporânea,Pensamento Filosófico e Político desde 1789,,Pensamento Filosófico e Político desde 1789,11,0.19,11,0.19
+558,História,03.03,2,História Geral,Século XXI,,,Século XXI,5,0.08,5,0.08
+559,História,04,1,Apoio,,,,Apoio,3,0.05,3,0.05
+560,História,05,1,Sem Classificação,,,,Sem Classificação,55,0.93,55,0.93
+561,Geografia,,0,,,,,Geografia,431,7.25,431,7.25
+562,Geografia,01,1,Pensamento Geográfico,,,,Pensamento Geográfico,46,0.77,46,0.77
+563,Geografia,01.01,2,Pensamento Geográfico,Evolução (História) do Pensamento Geográfico,,,Evolução (História) do Pensamento Geográfico,36,0.61,36,0.61
+564,Geografia,01.02,2,Pensamento Geográfico,Conceitos Chave em Geografia,,,Conceitos Chave em Geografia,10,0.17,10,0.17
+565,Geografia,02,1,Geografia da População,,,,Geografia da População,52,0.88,52,0.88
+566,Geografia,02.01,2,Geografia da População,População Mundial,,,População Mundial,6,0.1,6,0.1
+567,Geografia,02.02,2,Geografia da População,População Brasileira,,,População Brasileira,23,0.39,23,0.39
+568,Geografia,02.03,2,Geografia da População,"Migração, Imigração e Emigração",,,"Migração, Imigração e Emigração",23,0.39,23,0.39
+569,Geografia,03,1,Geografia Econômica,,,,Geografia Econômica,91,1.53,91,1.53
+570,Geografia,03.01,2,Geografia Econômica,Globalização e Divisão Internacional do Trabalho,,,Globalização e Divisão Internacional do Trabalho,24,0.4,24,0.4
+571,Geografia,03.02,2,Geografia Econômica,Sistemas Político-Econômicos,,,Sistemas Político-Econômicos,1,0.02,1,0.02
+572,Geografia,03.03,2,Geografia Econômica,Comércio Mundial,,,Comércio Mundial,3,0.05,3,0.05
+573,Geografia,03.04,2,Geografia Econômica,Blocos Regionais,,,Blocos Regionais,22,0.37,22,0.37
+574,Geografia,03.05,2,Geografia Econômica,Energia no Mundo,,,Energia no Mundo,4,0.07,4,0.07
+575,Geografia,03.06,2,Geografia Econômica,Outros temas de Geografia Econômica no Mundo,,,Outros temas de Geografia Econômica no Mundo,5,0.08,5,0.08
+576,Geografia,03.07,2,Geografia Econômica,Geografia Econômica do Brasil,,,Geografia Econômica do Brasil,32,0.54,32,0.54
+577,Geografia,03.07.01,3,Geografia Econômica,Geografia Econômica do Brasil,Industrialização,,Industrialização,12,0.2,12,0.2
+578,Geografia,03.07.02,3,Geografia Econômica,Geografia Econômica do Brasil,Infraestrutura e Logística,,Infraestrutura e Logística,6,0.1,6,0.1
+579,Geografia,03.07.03,3,Geografia Econômica,Geografia Econômica do Brasil,Energia no Brasil,,Energia no Brasil,5,0.08,5,0.08
+580,Geografia,03.07.04,3,Geografia Econômica,Geografia Econômica do Brasil,Política e Desigualdade Regional,,Política e Desigualdade Regional,8,0.13,8,0.13
+581,Geografia,03.07.05,3,Geografia Econômica,Geografia Econômica do Brasil,Outros temas de Geografia Econômica do Brasil,,Outros temas de Geografia Econômica do Brasil,1,0.02,1,0.02
+582,Geografia,04,1,Geografia Urbana,,,,Geografia Urbana,46,0.77,46,0.77
+583,Geografia,04.01,2,Geografia Urbana,Urbanização,,,Urbanização,40,0.67,40,0.67
+584,Geografia,04.01.01,3,Geografia Urbana,Urbanização,Urbanização Mundial,,Urbanização Mundial,11,0.19,11,0.19
+585,Geografia,04.01.02,3,Geografia Urbana,Urbanização,Urbanização Brasileira,,Urbanização Brasileira,29,0.49,29,0.49
+586,Geografia,04.02,2,Geografia Urbana,Metropolização,,,Metropolização,6,0.1,6,0.1
+587,Geografia,04.02.01,3,Geografia Urbana,Metropolização,Metropolização no Brasil,,Metropolização no Brasil,6,0.1,6,0.1
+588,Geografia,05,1,Geografia Agrária,,,,Geografia Agrária,55,0.93,55,0.93
+589,Geografia,05.01,2,Geografia Agrária,Agropecuária no Mundo,,,Agropecuária no Mundo,10,0.17,10,0.17
+590,Geografia,05.02,2,Geografia Agrária,Agropecuária no Brasil,,,Agropecuária no Brasil,45,0.76,45,0.76
+591,Geografia,05.02.01,3,Geografia Agrária,Agropecuária no Brasil,Questão Agrária,,Questão Agrária,6,0.1,6,0.1
+592,Geografia,05.02.02,3,Geografia Agrária,Agropecuária no Brasil,Agronegócio,,Agronegócio,39,0.66,39,0.66
+593,Geografia,06,1,Geografia Política,,,,Geografia Política,47,0.79,47,0.79
+594,Geografia,06.01,2,Geografia Política,Geografia Política no Mundo,,,Geografia Política no Mundo,28,0.47,28,0.47
+595,Geografia,06.02,2,Geografia Política,Geopolítica do Brasil,,,Geopolítica do Brasil,7,0.12,7,0.12
+596,Geografia,06.03,2,Geografia Política,Formação Territorial do Brasil,,,Formação Territorial do Brasil,9,0.15,9,0.15
+597,Geografia,06.04,2,Geografia Política,Divisão Político-Administrativa e Regional do Brasil,,,Divisão Político-Administrativa e Regional do Brasil,3,0.05,3,0.05
+598,Geografia,07,1,Geografia Cultural,,,,Geografia Cultural,4,0.07,4,0.07
+599,Geografia,08,1,Geografia e Meio Ambiente,,,,Geografia e Meio Ambiente,34,0.57,34,0.57
+600,Geografia,08.01,2,Geografia e Meio Ambiente,Desenvolvimento Sustentável,,,Desenvolvimento Sustentável,8,0.13,8,0.13
+601,Geografia,08.02,2,Geografia e Meio Ambiente,Acordos e Tratados Internacionais sobre Meio Ambiente,,,Acordos e Tratados Internacionais sobre Meio Ambiente,11,0.19,11,0.19
+602,Geografia,08.03,2,Geografia e Meio Ambiente,Planejamento e Zoneamento Ambiental,,,Planejamento e Zoneamento Ambiental,1,0.02,1,0.02
+603,Geografia,08.04,2,Geografia e Meio Ambiente,Mudanças Climáticas e Aquecimento Global,,,Mudanças Climáticas e Aquecimento Global,5,0.08,5,0.08
+604,Geografia,08.05,2,Geografia e Meio Ambiente,Política e Gestão Ambiental no Brasil,,,Política e Gestão Ambiental no Brasil,5,0.08,5,0.08
+605,Geografia,08.06,2,Geografia e Meio Ambiente,Outros temas de Geografia e Meio Ambiente no Mundo,,,Outros temas de Geografia e Meio Ambiente no Mundo,1,0.02,1,0.02
+606,Geografia,08.07,2,Geografia e Meio Ambiente,Outros temas de Geografia e Meio Ambiente no Brasil,,,Outros temas de Geografia e Meio Ambiente no Brasil,3,0.05,3,0.05
+607,Geografia,09,1,Geografia Física,,,,Geografia Física,6,0.1,6,0.1
+608,Geografia,09.01,2,Geografia Física,Ecologia,,,Ecologia,1,0.02,1,0.02
+609,Geografia,09.02,2,Geografia Física,Pedologia,,,Pedologia,1,0.02,1,0.02
+610,Geografia,09.03,2,Geografia Física,Meteorologia e Climatologia,,,Meteorologia e Climatologia,1,0.02,1,0.02
+611,Geografia,09.04,2,Geografia Física,Hidrografia,,,Hidrografia,3,0.05,3,0.05
+612,Geografia,10,1,Geografia Física do Brasil,,,,Geografia Física do Brasil,24,0.4,24,0.4
+613,Geografia,10.01,2,Geografia Física do Brasil,Hidrografia Brasileira,,,Hidrografia Brasileira,4,0.07,4,0.07
+614,Geografia,10.02,2,Geografia Física do Brasil,"Biomas, Domínios e Ecossistemas",,,"Biomas, Domínios e Ecossistemas",20,0.34,20,0.34
+615,Geografia,11,1,Outros Temas de Geografia,,,,Outros Temas de Geografia,1,0.02,1,0.02
+616,Geografia,12,1,Sem Classificação,,,,Sem Classificação,25,0.42,25,0.42
+617,Literatura Brasileira e Estrangeira,,0,,,,,Literatura Brasileira e Estrangeira,22,0.37,22,0.37
+618,Literatura Brasileira e Estrangeira,01,1,"Literatura Luso-Brasileira (características, autores e obras)",,,,"Literatura Luso-Brasileira (características, autores e obras)",5,0.08,5,0.08
+619,Literatura Brasileira e Estrangeira,01.01,2,"Literatura Luso-Brasileira (características, autores e obras)","Barroco (Bento Teixeira, Gregório de Matos, Pe. Antônio Viera, etc)",,,"Barroco (Bento Teixeira, Gregório de Matos, Pe. Antônio Viera, etc)",1,0.02,1,0.02
+620,Literatura Brasileira e Estrangeira,01.02,2,"Literatura Luso-Brasileira (características, autores e obras)","Realismo/Naturalismo (Machado de Assis, Aluísio Azevedo, R. Pompeia, etc)",,,"Realismo/Naturalismo (Machado de Assis, Aluísio Azevedo, R. Pompeia, etc)",1,0.02,1,0.02
+621,Literatura Brasileira e Estrangeira,01.03,2,"Literatura Luso-Brasileira (características, autores e obras)",Pós Modernismo. Desconstrucionismo. Outros autores,,,Pós Modernismo. Desconstrucionismo. Outros autores,3,0.05,3,0.05
+622,Literatura Brasileira e Estrangeira,02,1,"Literatura Estrangeira (história, escolas, autores e obras)",,,,"Literatura Estrangeira (história, escolas, autores e obras)",1,0.02,1,0.02
+623,Literatura Brasileira e Estrangeira,03,1,Sem Classificação,,,,Sem Classificação,16,0.27,16,0.27
+624,Línguas Estrangeiras Diversas,,0,,,,,Línguas Estrangeiras Diversas,1,0.02,1,0.02
+625,Línguas Estrangeiras Diversas,01,1,Sem Classificação,,,,Sem Classificação,1,0.02,1,0.02
+626,Finanças e Conhecimentos Bancários,,0,,,,,Finanças e Conhecimentos Bancários,13,0.22,13,0.22
+627,Finanças e Conhecimentos Bancários,01,1,Sistema Financeiro Nacional,,,,Sistema Financeiro Nacional,9,0.15,9,0.15
+628,Finanças e Conhecimentos Bancários,01.01,2,Sistema Financeiro Nacional,Órgãos e Entidades do SFN,,,Órgãos e Entidades do SFN,4,0.07,4,0.07
+629,Finanças e Conhecimentos Bancários,01.01.01,3,Sistema Financeiro Nacional,Órgãos e Entidades do SFN,Composição Geral do SFN,,Composição Geral do SFN,2,0.03,2,0.03
+630,Finanças e Conhecimentos Bancários,01.01.02,3,Sistema Financeiro Nacional,Órgãos e Entidades do SFN,BACEN (Banco Central do Brasil),,BACEN (Banco Central do Brasil),1,0.02,1,0.02
+631,Finanças e Conhecimentos Bancários,01.01.03,3,Sistema Financeiro Nacional,Órgãos e Entidades do SFN,BNDES (Banco Nacional de Desenvolvimento Econômico e Social),,BNDES (Banco Nacional de Desenvolvimento Econômico e Social),1,0.02,1,0.02
+632,Finanças e Conhecimentos Bancários,01.02,2,Sistema Financeiro Nacional,"Instituições e Acordos Internacionais (Acordo da Basileia, etc.)",,,"Instituições e Acordos Internacionais (Acordo da Basileia, etc.)",5,0.08,5,0.08
+633,Finanças e Conhecimentos Bancários,02,1,Atualidades do Mercado Financeiro,,,,Atualidades do Mercado Financeiro,4,0.07,4,0.07
+634,Finanças e Conhecimentos Bancários,02.01,2,Atualidades do Mercado Financeiro,"Fintechs, Startups e Big Techs",,,"Fintechs, Startups e Big Techs",4,0.07,4,0.07
+635,Legislação Geral Federal,,0,,,,,Legislação Geral Federal,50,0.84,50,0.84
+636,Legislação Geral Federal,01,1,Legislação das Carreiras do Executivo Federal,,,,Legislação das Carreiras do Executivo Federal,50,0.84,50,0.84
+637,Legislação Geral Federal,01.01,2,Legislação das Carreiras do Executivo Federal,Lei nº 11.440/2006 - Regime Jurídico dos Servidores do Serviço Exterior,,,Lei nº 11.440/2006 - Regime Jurídico dos Servidores do Serviço Exterior,50,0.84,50,0.84
+638,Direitos Humanos,,0,,,,,Direitos Humanos,18,0.3,18,0.3
+639,Direitos Humanos,01,1,"Conceitos, Histórico e Gerações dos Direitos Humanos",,,,"Conceitos, Histórico e Gerações dos Direitos Humanos",2,0.03,2,0.03
+640,Direitos Humanos,02,1,Carta Internacional dos Direitos Humanos,,,,Carta Internacional dos Direitos Humanos,1,0.02,1,0.02
+641,Direitos Humanos,02.01,2,Carta Internacional dos Direitos Humanos,Declaração Universal dos Direitos Humanos (DUDH),,,Declaração Universal dos Direitos Humanos (DUDH),1,0.02,1,0.02
+642,Direitos Humanos,03,1,Sistema Internacional de Proteção dos Direitos Humanos,,,,Sistema Internacional de Proteção dos Direitos Humanos,5,0.08,5,0.08
+643,Direitos Humanos,03.01,2,Sistema Internacional de Proteção dos Direitos Humanos,Sistema Interamericano de Direitos Humanos,,,Sistema Interamericano de Direitos Humanos,3,0.05,3,0.05
+644,Direitos Humanos,03.02,2,Sistema Internacional de Proteção dos Direitos Humanos,Outros Temas e Tópicos Mesclados de Proteção dos Direitos Humanos,,,Outros Temas e Tópicos Mesclados de Proteção dos Direitos Humanos,2,0.03,2,0.03
+645,Direitos Humanos,04,1,Vigência e Eficácia das Normas do Direito Internacional de Direitos Humanos. Reservas e Denúncias,,,,Vigência e Eficácia das Normas do Direito Internacional de Direitos Humanos. Reservas e Denúncias,1,0.02,1,0.02
+646,Direitos Humanos,05,1,Principais Convenções Internacionais de Direitos Humanos,,,,Principais Convenções Internacionais de Direitos Humanos,5,0.08,5,0.08
+647,Direitos Humanos,05.01,2,Principais Convenções Internacionais de Direitos Humanos,Agenda 2030 - Desenvolvimento Sustentável,,,Agenda 2030 - Desenvolvimento Sustentável,1,0.02,1,0.02
+648,Direitos Humanos,05.02,2,Principais Convenções Internacionais de Direitos Humanos,Convenção Americana sobre Direitos Humanos,,,Convenção Americana sobre Direitos Humanos,2,0.03,2,0.03
+649,Direitos Humanos,05.02.01,3,Principais Convenções Internacionais de Direitos Humanos,Convenção Americana sobre Direitos Humanos,Deveres dos Estados e Direitos Protegidos (arts. 1º a 32 da CADH-OAS),,Deveres dos Estados e Direitos Protegidos (arts. 1º a 32 da CADH-OAS),1,0.02,1,0.02
+650,Direitos Humanos,05.02.02,3,Principais Convenções Internacionais de Direitos Humanos,Convenção Americana sobre Direitos Humanos,Meios de Proteção (arts. 33 a 73 da CADH-OAS),,Meios de Proteção (arts. 33 a 73 da CADH-OAS),1,0.02,1,0.02
+651,Direitos Humanos,05.03,2,Principais Convenções Internacionais de Direitos Humanos,Convenções da OIT sobre Direitos Humanos,,,Convenções da OIT sobre Direitos Humanos,1,0.02,1,0.02
+652,Direitos Humanos,05.04,2,Principais Convenções Internacionais de Direitos Humanos,Convenção do Estatuto dos Refugiados (Lei nº 9.474/1997),,,Convenção do Estatuto dos Refugiados (Lei nº 9.474/1997),1,0.02,1,0.02
+653,Direitos Humanos,06,1,Direito das Mulheres no Brasil,,,,Direito das Mulheres no Brasil,1,0.02,1,0.02
+654,Direitos Humanos,07,1,Direitos Humanos na Constituição Federal,,,,Direitos Humanos na Constituição Federal,1,0.02,1,0.02
+655,Direitos Humanos,08,1,Outros Tópicos sobre Direitos Humanos,,,,Outros Tópicos sobre Direitos Humanos,2,0.03,2,0.03
+656,"Direito Marítimo, Portuário e Aeronáutico",,0,,,,,"Direito Marítimo, Portuário e Aeronáutico",1,0.02,1,0.02
+657,"Direito Marítimo, Portuário e Aeronáutico",01,1,Lei nº 8.617/1993 - Mar Territorial entre outros,,,,Lei nº 8.617/1993 - Mar Territorial entre outros,1,0.02,1,0.02
