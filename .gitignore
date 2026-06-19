@@ -1,5 +1,28 @@
-__pycache__/
-*.pyc
+# Python
 venv/
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+.pytest_cache/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
 .DS_Store
-*.log
+Thumbs.db
+
+# Dataset (regenerado pelo pipeline)
+!cacd_dataset.csv
+!cacd_dataset.json
+!cacd_dataset.parquet
+!cacd_dataset.xlsx
+
+# OMC workspace
+.omc/
+.agents/
+skills-lock.json

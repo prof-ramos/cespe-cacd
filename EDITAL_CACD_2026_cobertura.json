@@ -1,0 +1,168 @@
+{
+  "_metadata": {
+    "fonte": "EDITAL Nº 1, DE 28 DE JANEIRO DE 2026 — CACD 2026",
+    "anexo": "III — DOS OBJETOS DE AVALIAÇÃO",
+    "dataset_referencia": "profgabrielramos/cespe-cacd",
+    "data_geracao": "2026-06-19 05:17",
+    "total_disciplinas_anexo": 10,
+    "total_disciplinas_dataset": 19
+  },
+  "Língua Portuguesa": {
+    "status": "parcial",
+    "dataset_disciplinas": [
+      "Língua Portuguesa (Português)"
+    ],
+    "fases": [
+      "Primeira",
+      "Segunda"
+    ],
+    "topicos_previstos": 10,
+    "topicos_estimados_dataset": 22,
+    "total_linhas_dataset": 69,
+    "subtopicos_dataset": 2310
+  },
+  "Língua Inglesa": {
+    "status": "parcial",
+    "dataset_disciplinas": [
+      "Língua Inglesa (Inglês)"
+    ],
+    "fases": [
+      "Primeira",
+      "Segunda"
+    ],
+    "topicos_previstos": 4,
+    "topicos_estimados_dataset": 3,
+    "total_linhas_dataset": 24,
+    "subtopicos_dataset": 1638
+  },
+  "História do Brasil": {
+    "status": "parcial",
+    "dataset_disciplinas": [
+      "História"
+    ],
+    "fases": [
+      "Primeira",
+      "Segunda"
+    ],
+    "topicos_previstos": 11,
+    "topicos_estimados_dataset": 5,
+    "total_linhas_dataset": 132,
+    "subtopicos_dataset": 6598
+  },
+  "História Mundial": {
+    "status": "ausente",
+    "dataset_disciplinas": [],
+    "fases": [
+      "Primeira"
+    ],
+    "topicos": 8,
+    "topicos_cobertos": 0,
+    "observacao": "História Mundial não separada no dataset CACD (fundida em 'História')"
+  },
+  "Política Internacional": {
+    "status": "parcial",
+    "dataset_disciplinas": [
+      "Relações Internacionais e Comércio Internacional"
+    ],
+    "fases": [
+      "Primeira",
+      "Segunda"
+    ],
+    "topicos_previstos": 13,
+    "topicos_estimados_dataset": 8,
+    "total_linhas_dataset": 43,
+    "subtopicos_dataset": 2017
+  },
+  "Geografia": {
+    "status": "parcial",
+    "dataset_disciplinas": [
+      "Geografia"
+    ],
+    "fases": [
+      "Primeira",
+      "Segunda"
+    ],
+    "topicos_previstos": 7,
+    "topicos_estimados_dataset": 12,
+    "total_linhas_dataset": 56,
+    "subtopicos_dataset": 1386
+  },
+  "Economia": {
+    "status": "parcial",
+    "dataset_disciplinas": [
+      "Economia e Finanças Públicas",
+      "Finanças e Conhecimentos Bancários"
+    ],
+    "fases": [
+      "Primeira",
+      "Segunda"
+    ],
+    "topicos_previstos": 5,
+    "topicos_estimados_dataset": 11,
+    "total_linhas_dataset": 120,
+    "subtopicos_dataset": 1667
+  },
+  "Direito": {
+    "status": "parcial",
+    "dataset_disciplinas": [
+      "Direito Administrativo (Doutrina e Leis Federais)",
+      "Direito Constitucional (CF/1988 e Doutrina)",
+      "Direito Internacional Público e Privado",
+      "Direito Civil",
+      "Direito Ambiental",
+      "Direitos Humanos",
+      "Direito Marítimo, Portuário e Aeronáutico"
+    ],
+    "fases": [
+      "Primeira",
+      "Segunda"
+    ],
+    "topicos_previstos": 30,
+    "topicos_estimados_dataset": 52,
+    "total_linhas_dataset": 186,
+    "subtopicos_dataset": 1653
+  },
+  "Língua Espanhola": {
+    "status": "parcial",
+    "dataset_disciplinas": [
+      "Língua Espanhola (Espanhol)"
+    ],
+    "fases": [
+      "Segunda"
+    ],
+    "topicos_previstos": 2,
+    "topicos_estimados_dataset": 5,
+    "total_linhas_dataset": 12,
+    "subtopicos_dataset": 628
+  },
+  "Língua Francesa": {
+    "status": "parcial",
+    "dataset_disciplinas": [
+      "Língua Francesa (Francês)"
+    ],
+    "fases": [
+      "Segunda"
+    ],
+    "topicos_previstos": 2,
+    "topicos_estimados_dataset": 3,
+    "total_linhas_dataset": 4,
+    "subtopicos_dataset": 600
+  },
+  "_extras": {
+    "Literatura Brasileira e Estrangeira": {
+      "status": "extra_anexo",
+      "observacao": "Disciplina presente no dataset mas não listada no Anexo III",
+      "linhas": 7
+    },
+    "Legislação Geral Federal": {
+      "status": "extra_anexo",
+      "observacao": "Disciplina presente no dataset mas não listada no Anexo III",
+      "linhas": 3
+    },
+    "Línguas Estrangeiras Diversas": {
+      "status": "extra_anexo",
+      "observacao": "Disciplina presente no dataset mas não listada no Anexo III",
+      "linhas": 2
+    }
+  }
+}

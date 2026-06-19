@@ -8,6 +8,7 @@ configs:
     data_files:
       - split: train
         path: cacd_dataset.csv
+license: cc-by-4.0
 dataset_info:
   features:
     - name: linha_original
@@ -36,6 +37,14 @@ dataset_info:
       dtype: int64
     - name: porcentagem_caderno
       dtype: float64
+  citation: |-
+    @misc{gabriel-ramos-cespe-cacd,
+      author       = {Gabriel Ramos},
+      title        = {cespe-cacd: Distribuição de Conteúdos CACD/CESPE},
+      year         = {2026},
+      publisher    = {Hugging Face},
+      journal      = {Hugging Face Datasets}
+    }
 ---
 
 # cespe-cacd
@@ -46,13 +55,17 @@ Este dataset mapeia 19 disciplinas do edital com uma estrutura de até 4 níveis
 
 ## Arquivos Disponíveis
 
-* `cacd_dataset.csv`: Dataset limpo em formato CSV.
+* `cacd_dataset.csv`: Dataset limpo em formato CSV (658 linhas, 19 disciplinas).
 * `cacd_dataset.json`: Dataset limpo em formato JSON.
 * `cacd_dataset.parquet`: Dataset limpo em formato colunar Parquet.
 * `cacd_dataset.xlsx`: Dataset limpo em formato de planilha Excel.
 * `original_cacd.xlsx`: Planilha original contendo a exportação bruta do edital.
 * `generate_dataset.py`: Script para processamento local.
 * `EDITAL_CACD_2026.md`: O edital oficial em formato Markdown de 2026.
+
+## Licença
+
+Este dataset é disponibilizado sob a licença **Creative Commons Attribution 4.0 International (CC BY 4.0)**.
 """
 
 with open("README.md", "w", encoding="utf-8") as f:
@@ -79,7 +92,7 @@ uploads = {
     "cacd_dataset.xlsx": "cacd_dataset.xlsx",
     "generate_dataset.py": "generate_dataset.py",
     "EDITAL_CACD_2026.md": "EDITAL_CACD_2026.md",
-    "/Users/gabrielramos/Downloads/20604800-e629-4027-84cc-cfcd86707411.xlsx": "original_cacd.xlsx"
+    "original_cacd.xlsx": "original_cacd.xlsx"
 }
 
 print("Uploading files to Hugging Face Hub...")

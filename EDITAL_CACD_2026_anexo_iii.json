@@ -1,0 +1,171 @@
+{
+  "Língua Portuguesa": {
+    "fases": [
+      "Primeira",
+      "Segunda"
+    ],
+    "topicos": [
+      "Língua portuguesa: modalidade culta",
+      "Sistema gráfico: ortografia, acentuação e pontuação",
+      "Morfossintaxe",
+      "Semântica",
+      "Vocabulário",
+      "Leitura e produção de textos",
+      "Compreensão, interpretação e análise crítica de textos",
+      "Conhecimentos de linguística, literatura e estilística",
+      "Redação de textos dissertativos",
+      "Defeitos de conteúdo e vícios de linguagem"
+    ]
+  },
+  "Língua Inglesa": {
+    "fases": [
+      "Primeira",
+      "Segunda"
+    ],
+    "topicos": [
+      "Compreensão de textos escritos",
+      "Itens gramaticais relevantes",
+      "Redação em língua inglesa",
+      "Versão português → inglês"
+    ]
+  },
+  "História do Brasil": {
+    "fases": [
+      "Primeira",
+      "Segunda"
+    ],
+    "topicos": [
+      "Período colonial",
+      "Processo de independência",
+      "Primeiro Reinado (1822-1831)",
+      "Regência (1831-1840)",
+      "Segundo Reinado (1840-1889)",
+      "Primeira República (1889-1930)",
+      "Era Vargas (1930-1945)",
+      "República Liberal (1945-1964)",
+      "Regime Militar (1964-1985)",
+      "Processo democrático a partir de 1985",
+      "Impactos tecnológicos e digitais no séc. XXI"
+    ]
+  },
+  "História Mundial": {
+    "fases": [
+      "Primeira"
+    ],
+    "topicos": [
+      "Estruturas e ideias econômicas",
+      "Revoluções",
+      "Relações internacionais",
+      "Colonialismo, imperialismo",
+      "Evolução política e econômica nas Américas",
+      "Ideias e regimes políticos",
+      "Vida cultural",
+      "Relações internacionais no séc. XXI"
+    ]
+  },
+  "Política Internacional": {
+    "fases": [
+      "Primeira",
+      "Segunda"
+    ],
+    "topicos": [
+      "Conceitos básicos e paradigmas teóricos",
+      "Política externa brasileira desde 1945",
+      "Brasil e América do Sul / MERCOSUL",
+      "Argentina e relações com o Brasil",
+      "Relações com demais países do hemisfério",
+      "EUA: política externa e relações com o Brasil",
+      "União Europeia",
+      "Rússia",
+      "África",
+      "Brasil e Ásia (China, Índia, Japão)",
+      "Brasil e Oriente Médio",
+      "Comunidade dos Países de Língua Portuguesa",
+      "Brasil e agenda internacional multilateral"
+    ]
+  },
+  "Geografia": {
+    "fases": [
+      "Primeira",
+      "Segunda"
+    ],
+    "topicos": [
+      "História da Geografia e correntes teóricas",
+      "Geografia da população",
+      "Geografia econômica",
+      "Geografia agrária",
+      "Geografia urbana",
+      "Geografia política",
+      "Geografia e gestão ambiental"
+    ]
+  },
+  "Economia": {
+    "fases": [
+      "Primeira",
+      "Segunda"
+    ],
+    "topicos": [
+      "Microeconomia",
+      "Macroeconomia",
+      "Economia internacional",
+      "História econômica brasileira",
+      "Bancos digitais e meios de pagamento"
+    ]
+  },
+  "Direito": {
+    "fases": [
+      "Primeira",
+      "Segunda"
+    ],
+    "topicos": [
+      "Normas jurídicas",
+      "Personalidade jurídica",
+      "Constituição e controle de constitucionalidade",
+      "Estado: elementos, soberania, formas",
+      "Estado democrático de direito",
+      "Organização dos poderes no Direito Brasileiro",
+      "Processo legislativo brasileiro",
+      "Direitos e garantias fundamentais",
+      "Administração Pública (princípios, atos, processo)",
+      "Licitações e contratos administrativos",
+      "Responsabilidade civil do Estado",
+      "Direitos, deveres do servidor público",
+      "Regime Jurídico dos Servidores do SEB (Lei 11.440/2006)",
+      "Finanças públicas",
+      "Direito Internacional Público e Privado",
+      "Princípios das relações internacionais (art. 4º CF)",
+      "Estado, soberania, reconhecimento",
+      "Território e formação do território brasileiro",
+      "Povo, nacionalidade, estrangeiros",
+      "Jurisdição, relações diplomáticas e consulares",
+      "Sujeitos especiais do DIP",
+      "Fontes do DIP e tratados internacionais",
+      "Solução pacífica de controvérsias",
+      "Organizações internacionais e ONU",
+      "Direito Internacional Humanitário e Refugiados",
+      "Direito penal internacional e TPI",
+      "Direito do comércio internacional e OMC",
+      "Direito Internacional do Meio Ambiente e do Mar",
+      "Direito internacional do trabalho (OIT)",
+      "Cooperação jurídica internacional"
+    ]
+  },
+  "Língua Espanhola": {
+    "fases": [
+      "Segunda"
+    ],
+    "topicos": [
+      "Resumo em espanhol",
+      "Versão português → espanhol"
+    ]
+  },
+  "Língua Francesa": {
+    "fases": [
+      "Segunda"
+    ],
+    "topicos": [
+      "Resumo em francês",
+      "Versão português → francês"
+    ]
+  }
+}
